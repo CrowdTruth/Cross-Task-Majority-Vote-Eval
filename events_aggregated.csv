@@ -1,0 +1,691 @@
+Job Id,Unit Id,Annotation_Id,Unit,Annotated Span,Media_Unit-Annotation_Score,Expert,Ground_Truth
+245,1,wsj_0173,The Avon Conn . company 's stock hit a high in 1983 after it unveiled its Adam home computer but the product was plagued with glitches and the company 's fortunes plunged .,plagued,0.33,1,1
+245,2,wsj_1013,"Thomas Spiegel Columbia 's chairman said in a statement that the thrift was """" disappointed """" by the effects of the accounting changes .",said,0.22,1,1
+245,2,wsj_1013,"Thomas Spiegel Columbia 's chairman said in a statement that the thrift was """" disappointed """" by the effects of the accounting changes .",disappointed,0,1,1
+245,3,wsj_0660,The companies said the transaction is being structured this way because the laws of the Netherlands Antilles under which Erbamont is organized do n't provide for merger transactions .,structured,0.21,1,1
+245,3,wsj_0660,The companies said the transaction is being structured this way because the laws of the Netherlands Antilles under which Erbamont is organized do n't provide for merger transactions .,provide,0.14,1,1
+245,3,wsj_0660,The companies said the transaction is being structured this way because the laws of the Netherlands Antilles under which Erbamont is organized do n't provide for merger transactions .,said,0.14,1,1
+245,4,APW19980227.0487,Har - Shefi said she heard Amir talk about killing Rabin but did not tell the police because she did not believe he was serious,tell,0.36,1,1
+245,4,APW19980227.0487,Har - Shefi said she heard Amir talk about killing Rabin but did not tell the police because she did not believe he was serious,heard,0.27,1,1
+245,4,APW19980227.0487,Har - Shefi said she heard Amir talk about killing Rabin but did not tell the police because she did not believe he was serious,said,0.27,1,1
+245,4,APW19980227.0487,Har - Shefi said she heard Amir talk about killing Rabin but did not tell the police because she did not believe he was serious,talk,0.27,1,1
+245,4,APW19980227.0487,Har - Shefi said she heard Amir talk about killing Rabin but did not tell the police because she did not believe he was serious,believe,0.09,1,1
+245,4,APW19980227.0487,Har - Shefi said she heard Amir talk about killing Rabin but did not tell the police because she did not believe he was serious,serious,0,1,0
+245,5,wsj_0505,They said they expect the transaction to be completed by Dec . 15,completed,0.38,1,1
+245,5,wsj_0505,They said they expect the transaction to be completed by Dec . 15,expect,0.09,1,1
+245,5,wsj_0505,They said they expect the transaction to be completed by Dec . 15,said,0.09,1,1
+245,6,wsj_0816,Yield on the issue was 7.88 %,[NONE],0.14,1,0
+245,7,wsj_1014,Some experts now predict Anheuser 's entry into the fray means near-term earnings trouble for all the industry players,entry,0.57,1,1
+245,7,wsj_1014,Some experts now predict Anheuser 's entry into the fray means near-term earnings trouble for all the industry players,predict,0.42,1,1
+245,7,wsj_1014,Some experts now predict Anheuser 's entry into the fray means near-term earnings trouble for all the industry players,trouble,0.14,1,1
+245,7,wsj_1014,Some experts now predict Anheuser 's entry into the fray means near-term earnings trouble for all the industry players,means,0,1,1
+245,9,wsj_0585,And to protect their reduced capital investment from eroding further market makers became quicker to lower price quotes when sell programs are in progress .,lower,0.32,1,1
+245,9,wsj_0585,And to protect their reduced capital investment from eroding further market makers became quicker to lower price quotes when sell programs are in progress .,protect,0.21,1,1
+245,9,wsj_0585,And to protect their reduced capital investment from eroding further market makers became quicker to lower price quotes when sell programs are in progress .,in,0,1,0
+245,10,wsj_0745,"I really do n't see the government doing something that Jaguar does n't want over the next 14 months """" said Kenneth Warren a Conservative member of Parliament and chairman of the Select Committee on Trade and Industry in Britain 's House of Commons .",doing,0.45,1,1
+245,10,wsj_0745,"I really do n't see the government doing something that Jaguar does n't want over the next 14 months """" said Kenneth Warren a Conservative member of Parliament and chairman of the Select Committee on Trade and Industry in Britain 's House of Commons .",said,0.34,1,1
+245,10,wsj_0745,"I really do n't see the government doing something that Jaguar does n't want over the next 14 months """" said Kenneth Warren a Conservative member of Parliament and chairman of the Select Committee on Trade and Industry in Britain 's House of Commons .",see,0.34,1,1
+245,10,wsj_0745,"I really do n't see the government doing something that Jaguar does n't want over the next 14 months """" said Kenneth Warren a Conservative member of Parliament and chairman of the Select Committee on Trade and Industry in Britain 's House of Commons .",want,0.23,1,1
+245,11,Wsj_0151,Mr. Ackerman already is seeking to oust Mr. Edelman as chairman of Datapoint Corp. an Intelogic affiliate .,seeking,0.4,1,1
+245,12,wsj_0584,In response to BellSouth 's amended pact the Kirkland Wash . company extended its own offer to buy 22 million LIN shares for $ 125 apiece which would give McCaw a 50.3 % controlling interest .,buy,0.37,1,1
+245,12,wsj_0584,In response to BellSouth 's amended pact the Kirkland Wash . company extended its own offer to buy 22 million LIN shares for $ 125 apiece which would give McCaw a 50.3 % controlling interest .,offer,0.37,1,1
+245,12,wsj_0584,In response to BellSouth 's amended pact the Kirkland Wash . company extended its own offer to buy 22 million LIN shares for $ 125 apiece which would give McCaw a 50.3 % controlling interest .,give,0.18,1,1
+245,13,wsj_0583,"Sansui he said is a perfect fit for Polly Peck 's electronics operations which make televisions videocassette recorders microwaves and other products on an """" original equipment maker """" basis for sale under other companies ' brand names .",said,0.36,1,1
+245,14,NYT19980212.0019,The other customers fled and the police said it did not appear that anyone else was injured .,injured,0.28,1,1
+245,14,NYT19980212.0019,The other customers fled and the police said it did not appear that anyone else was injured .,appear,0.14,1,1
+245,14,NYT19980212.0019,The other customers fled and the police said it did not appear that anyone else was injured .,said,0.14,1,1
+245,15,wsj_0340,Earlier yesterday the Societe de Bourses Francaises was told that a unit of Framatome S.A. also bought Navigation Mixte shares this purchase covering more than 160000 shares .,told,0.29,1,1
+245,15,wsj_0340,Earlier yesterday the Societe de Bourses Francaises was told that a unit of Framatome S.A. also bought Navigation Mixte shares this purchase covering more than 160000 shares .,purchase,0.22,1,1
+245,18,wsj_0127,The British paper packaging and publishing concern said profit from continuing lines fell 10 % to # 118 million from # 130.6 million .,said,0.43,1,1
+245,19,wsj_0527,Crossland said it retained three investment bankers to assist it in developing and implementing a financial restructuring plan,developing,0.35,1,1
+245,19,wsj_0527,Crossland said it retained three investment bankers to assist it in developing and implementing a financial restructuring plan,implementing,0.35,1,1
+245,19,wsj_0527,Crossland said it retained three investment bankers to assist it in developing and implementing a financial restructuring plan,assist,0.28,1,1
+245,19,wsj_0527,Crossland said it retained three investment bankers to assist it in developing and implementing a financial restructuring plan,said,0.21,1,1
+245,20,wsj_0695,Rally officials were n't available to comment late yesterday,comment,0.64,1,1
+245,20,wsj_0695,Rally officials were n't available to comment late yesterday,available,0.32,1,1
+245,21,wsj_0570,Under the terms Milton Roy will pay an initial $ 4 million for the operations and additional payments during the next four years based on the earnings performance of the businesses .,payments,0.25,1,1
+245,21,wsj_0570,Under the terms Milton Roy will pay an initial $ 4 million for the operations and additional payments during the next four years based on the earnings performance of the businesses .,operations,0.16,1,1
+245,22,wsj_1003,"However in spite of the difficult industrywide environment of high cost and low volume Bethlehem """" had pretty good earnings numbers """" said Michelle Galanter Applebaum an analyst with Salomon Brothers Inc.",had,0.22,1,1
+245,22,wsj_1003,"However in spite of the difficult industrywide environment of high cost and low volume Bethlehem """" had pretty good earnings numbers """" said Michelle Galanter Applebaum an analyst with Salomon Brothers Inc.",said,0.11,1,1
+245,23,PRI19980306.2000.1675,For The World this is Pamela McCall in the BBC news room in London .,[NONE],0,1,1
+245,24,wsj_0027,They expect him to cut costs throughout the organization,expect,0.15,1,1
+245,25,wsj_0781,Sun Hewlett - Packard and others say Intel is n't wholly to blame for the snafu .,say,0.46,1,1
+245,26,wsj_0527,Net interest income for the third quarter declined to $ 35.6 million from $ 70.1 million a year ago,[NONE],0.75,1,1
+245,27,wsj_1031,Under certain circumstances the rights would entitle Philip Morris holders to buy shares of either the company or its acquirer for half price .,entitle,0.1,1,1
+245,28,wsj_0324,The acquisition brings together the two largest competitors to Home Shopping Network Inc. which now reaches more viewers than any other company in the video shopping industry .,brings,0.21,1,1
+245,28,wsj_0324,The acquisition brings together the two largest competitors to Home Shopping Network Inc. which now reaches more viewers than any other company in the video shopping industry .,reaches,0.14,1,1
+245,30,wsj_1013,Columbia officials said they do n't know how quickly they will dispose of the thrift 's junk bonds because federal regulations such as those that would allow thrifts to continue holding the bonds in separately capitalized subsidiaries have n't yet been completed .,completed,0.21,1,1
+245,30,wsj_1013,Columbia officials said they do n't know how quickly they will dispose of the thrift 's junk bonds because federal regulations such as those that would allow thrifts to continue holding the bonds in separately capitalized subsidiaries have n't yet been completed .,holding,0.21,1,1
+245,30,wsj_1013,Columbia officials said they do n't know how quickly they will dispose of the thrift 's junk bonds because federal regulations such as those that would allow thrifts to continue holding the bonds in separately capitalized subsidiaries have n't yet been completed .,allow,0.14,1,1
+245,30,wsj_1013,Columbia officials said they do n't know how quickly they will dispose of the thrift 's junk bonds because federal regulations such as those that would allow thrifts to continue holding the bonds in separately capitalized subsidiaries have n't yet been completed .,continue,0.14,1,1
+245,30,wsj_1013,Columbia officials said they do n't know how quickly they will dispose of the thrift 's junk bonds because federal regulations such as those that would allow thrifts to continue holding the bonds in separately capitalized subsidiaries have n't yet been completed .,know,0.07,1,1
+245,30,wsj_1013,Columbia officials said they do n't know how quickly they will dispose of the thrift 's junk bonds because federal regulations such as those that would allow thrifts to continue holding the bonds in separately capitalized subsidiaries have n't yet been completed .,said,0,1,1
+245,32,wsj_0610,As expected Kellogg reported lower third-quarter earnings .,expected,0,1,1
+245,33,wsj_1033,The unit said it can provide no assurance a transaction will occur,occur,0.25,1,1
+245,33,wsj_1033,The unit said it can provide no assurance a transaction will occur,provide,0.25,1,1
+245,33,wsj_1033,The unit said it can provide no assurance a transaction will occur,said,0.25,1,1
+245,34,wsj_0584,But under new terms of the agreement announced Friday LIN holders would receive a special cash dividend of $ 42 a share representing a payout of about $ 2.23 billion shortly before the proposed merger .,merger,0.58,1,1
+245,34,wsj_0584,But under new terms of the agreement announced Friday LIN holders would receive a special cash dividend of $ 42 a share representing a payout of about $ 2.23 billion shortly before the proposed merger .,receive,0.29,1,1
+245,34,wsj_0584,But under new terms of the agreement announced Friday LIN holders would receive a special cash dividend of $ 42 a share representing a payout of about $ 2.23 billion shortly before the proposed merger .,announced,0,1,1
+245,35,wsj_0172,The Midwest Financial subsidiary banks will continue to operate under their current names until early 1990 when each will adopt the First of America name .,operate,0.48,1,1
+245,35,wsj_0172,The Midwest Financial subsidiary banks will continue to operate under their current names until early 1990 when each will adopt the First of America name .,continue,0.39,1,1
+245,36,wsj_1008,Lawrence Insurance underwrites mostly primary insurance a company spokesman said .,said,0.19,1,1
+245,38,wsj_0161,In addition Hadson said it will write off about $ 3.5 million in costs related to international exploration leases where exploration efforts have been unsuccessful .,exploration,0.34,0,1
+245,38,wsj_0161,In addition Hadson said it will write off about $ 3.5 million in costs related to international exploration leases where exploration efforts have been unsuccessful .,exploration,0.34,0,1
+245,38,wsj_0161,In addition Hadson said it will write off about $ 3.5 million in costs related to international exploration leases where exploration efforts have been unsuccessful .,said,0.11,1,1
+245,38,wsj_0161,In addition Hadson said it will write off about $ 3.5 million in costs related to international exploration leases where exploration efforts have been unsuccessful .,unsuccessful,0.11,0,1
+245,40,VOA19980331.1700.1533,But the number of patients waiting then begins to increase um and in fact um over the years many more patients who are about to die of liver tra - uh without a liver transplant would accumulate .,accumulate,0.32,1,1
+245,40,VOA19980331.1700.1533,But the number of patients waiting then begins to increase um and in fact um over the years many more patients who are about to die of liver tra - uh without a liver transplant would accumulate .,increase,0.32,1,1
+245,40,VOA19980331.1700.1533,But the number of patients waiting then begins to increase um and in fact um over the years many more patients who are about to die of liver tra - uh without a liver transplant would accumulate .,waiting,0.32,1,1
+245,40,VOA19980331.1700.1533,But the number of patients waiting then begins to increase um and in fact um over the years many more patients who are about to die of liver tra - uh without a liver transplant would accumulate .,begins,0.08,1,1
+245,41,wsj_0679,Hewlett - Packard Co. said it raised its stake in Octel Communications Corp. to 8.5 % of the common shares outstanding,said,0,1,1
+245,42,wsj_0585,Merrill Lynch Goldman Sachs and Kidder Peabody in addition to Shearson do program-trade OTC stocks .,stocks,0.37,0,0
+245,42,wsj_0585,Merrill Lynch Goldman Sachs and Kidder Peabody in addition to Shearson do program-trade OTC stocks .,[NONE],0.24,1,1
+245,42,wsj_0585,Merrill Lynch Goldman Sachs and Kidder Peabody in addition to Shearson do program-trade OTC stocks .,OTC,0.24,0,0
+245,42,wsj_0585,Merrill Lynch Goldman Sachs and Kidder Peabody in addition to Shearson do program-trade OTC stocks .,do,0.12,0,0
+245,43,wsj_0585,Because of program trading it is more difficult to trade many OTC stocks without sharp price moves a condition known as illiquidity .,trading,0.38,1,1
+245,43,wsj_0585,Because of program trading it is more difficult to trade many OTC stocks without sharp price moves a condition known as illiquidity .,moves,0.32,1,1
+245,43,wsj_0585,Because of program trading it is more difficult to trade many OTC stocks without sharp price moves a condition known as illiquidity .,difficult,0.13,1,1
+245,45,wsj_0981,MGM Grand said the latest stock offering wo n't cover the $ 600 million or more cost of building the proposed resort and theme park and added it will need to seek additional financing either through bank borrowings or debt and equity offerings at a later date .,seek,0.32,1,1
+245,45,wsj_0981,MGM Grand said the latest stock offering wo n't cover the $ 600 million or more cost of building the proposed resort and theme park and added it will need to seek additional financing either through bank borrowings or debt and equity offerings at a later date .,building,0.19,1,1
+245,45,wsj_0981,MGM Grand said the latest stock offering wo n't cover the $ 600 million or more cost of building the proposed resort and theme park and added it will need to seek additional financing either through bank borrowings or debt and equity offerings at a later date .,added,0.06,1,1
+245,45,wsj_0981,MGM Grand said the latest stock offering wo n't cover the $ 600 million or more cost of building the proposed resort and theme park and added it will need to seek additional financing either through bank borrowings or debt and equity offerings at a later date .,cover,0.06,1,1
+245,45,wsj_0981,MGM Grand said the latest stock offering wo n't cover the $ 600 million or more cost of building the proposed resort and theme park and added it will need to seek additional financing either through bank borrowings or debt and equity offerings at a later date .,need,0.06,1,1
+245,45,wsj_0981,MGM Grand said the latest stock offering wo n't cover the $ 600 million or more cost of building the proposed resort and theme park and added it will need to seek additional financing either through bank borrowings or debt and equity offerings at a later date .,said,0.06,1,1
+245,47,wsj_1006,Mr. Lortie 's departure while sudden was seen as inevitable in light of the shift in strategy .,shift,0.31,1,1
+245,47,wsj_1006,Mr. Lortie 's departure while sudden was seen as inevitable in light of the shift in strategy .,seen,0.16,1,1
+245,47,wsj_1006,Mr. Lortie 's departure while sudden was seen as inevitable in light of the shift in strategy .,inevitable,0.08,1,1
+245,48,CNN19980223.1130.0960,Weakened oil prices have already made life easier for motorists at the gas pump,made,0.45,1,1
+245,49,wsj_0760,Operating profit in the company 's abrasives segment rose 16 % while operating profit in the engineering materials segment rose 2 %,rose,0.33,1,1
+245,49,wsj_0760,Operating profit in the company 's abrasives segment rose 16 % while operating profit in the engineering materials segment rose 2 %,rose,0.25,1,1
+245,50,WSJ900813-0157,"The Bush administration immediately said it """" categorically """" rejects the proposals .",said,0.26,1,1
+246,51,VOA19980305.1800.2603,She says security under the fundamentalist Taleban government is better but everything else is worse .,worse,0.29,1,1
+246,51,VOA19980305.1800.2603,She says security under the fundamentalist Taleban government is better but everything else is worse .,better,0.19,1,1
+246,53,wsj_0292,In the 1989 period also interest expense and tax rates were lower than a year ago .,lower,0.2,1,1
+246,54,wsj_0583,Japanese government officials eager to rebut foreign criticism of Japanese investments overseas hailed the transaction as proof foreigners can make similar investments in Japan .,investments,0.15,1,1
+246,55,NYT19980206.0460,Long-term interest rates an important indicator of economic stability have fallen in the last few months .,fallen,0.52,1,1
+246,56,wsj_1003,Of all the major steelmakers Bethlehem would seem to be the most vulnerable to a slowdown .,vulnerable,0.41,1,1
+246,56,wsj_1003,Of all the major steelmakers Bethlehem would seem to be the most vulnerable to a slowdown .,seem,0.16,1,1
+246,58,wsj_0346,The company which currently has 13.5 million common shares outstanding said it has no specific plans for the shares .,has,0.25,1,1
+246,58,wsj_0346,The company which currently has 13.5 million common shares outstanding said it has no specific plans for the shares .,has,0.25,1,1
+246,58,wsj_0346,The company which currently has 13.5 million common shares outstanding said it has no specific plans for the shares .,said,0.19,1,1
+246,59,WSJ900813-0157,Two Middle East terrorists with records of successful attacks against Western targets Abu Nidal and Abu Abbas have ties to Baghdad .,[NONE],0,1,0
+246,62,wsj_1006,Bertin Nadeau newly appointed chairman and interim chief executive of Provigo would n't say if Mr. Lortie was asked to leave .,leave,0.42,1,1
+246,62,wsj_1006,Bertin Nadeau newly appointed chairman and interim chief executive of Provigo would n't say if Mr. Lortie was asked to leave .,asked,0.28,1,1
+246,62,wsj_1006,Bertin Nadeau newly appointed chairman and interim chief executive of Provigo would n't say if Mr. Lortie was asked to leave .,say,0.28,1,1
+246,63,wsj_0132,The 32 % state-owned DSM had eight million guilders of extraordinary charges in the latest quarter mainly to reflect one-time losses in connection with the disposal of some operations .,reflect,0.07,1,1
+246,64,wsj_0610,But the Memphis Tenn . facility was n't to begin turning out product until 1993 so the decision may reveal a more pessimistic long-term outlook as well .,turning,0.49,1,1
+246,64,wsj_0610,But the Memphis Tenn . facility was n't to begin turning out product until 1993 so the decision may reveal a more pessimistic long-term outlook as well .,begin,0.12,1,1
+246,64,wsj_0610,But the Memphis Tenn . facility was n't to begin turning out product until 1993 so the decision may reveal a more pessimistic long-term outlook as well .,decision,0.12,1,1
+246,65,wsj_0973,The deal which will involve an initial $ 20 million investment was struck with a handshake he added .,investment,0.3,1,1
+246,65,wsj_0973,The deal which will involve an initial $ 20 million investment was struck with a handshake he added .,involve,0.12,1,1
+246,65,wsj_0973,The deal which will involve an initial $ 20 million investment was struck with a handshake he added .,added,0.06,1,1
+246,66,ABC19980108.1830.0711,They believe ah it will be always up going up and up ah forever,believe,0.27,1,1
+246,67,wsj_0760,The company had a tax credit of $ 1.4 million,[NONE],0,1,1
+246,69,wsj_0172,Midwest Financial has $ 2.3 billion in assets and eight banks,[NONE],0.11,1,1
+246,70,wsj_0586,Dealers said the multinational oil company was pressured by recent brokerage recommendations urging investors to switch into Shell Trading amp Transport,pressured,0.35,1,1
+246,70,wsj_0586,Dealers said the multinational oil company was pressured by recent brokerage recommendations urging investors to switch into Shell Trading amp Transport,switch,0.35,1,1
+246,70,wsj_0586,Dealers said the multinational oil company was pressured by recent brokerage recommendations urging investors to switch into Shell Trading amp Transport,urging,0.18,1,1
+246,70,wsj_0586,Dealers said the multinational oil company was pressured by recent brokerage recommendations urging investors to switch into Shell Trading amp Transport,said,0.09,1,1
+246,71,APW19980227.0489,The assassination touched off a murderous rampage by Hutu security forces and civilians who slaughtered mainly Tutsis but also Hutus who favored reconciliation with the minority .,reconciliation,0.19,1,1
+246,71,APW19980227.0489,The assassination touched off a murderous rampage by Hutu security forces and civilians who slaughtered mainly Tutsis but also Hutus who favored reconciliation with the minority .,favored,0,1,1
+246,72,wsj_0610,Led by its oat-based Cheerios line General Mills has gained an estimated 2 % share so far this year mostly at the expense of Kellogg .,Led,0.2,1,1
+246,74,ABC19980108.1830.0711,You can get seventy percent discounts at the shopping malls,get,0.34,1,1
+246,75,wsj_0575,During that time Control Data had losses of more than $ 1 billion .,had,0.32,1,1
+246,76,CNN19980227.2130.0067,New evidence is suggesting that a series of bombings in Atalanta and last month 's explosion at an Alabama women 's clinic might be related,suggesting,0.07,1,1
+246,76,CNN19980227.2130.0067,New evidence is suggesting that a series of bombings in Atalanta and last month 's explosion at an Alabama women 's clinic might be related,related,0,1,1
+246,78,wsj_1006,In a related move Pierre Lortie chairman and chief executive resigned .,move,0.2,1,1
+246,79,ABC19980120.1830.0957,For his part Fidel Castro is the ultimate political survivor .,[NONE],0,1,1
+246,80,PRI19980121.2000.2591,Most of the city 's monuments were destroyed including a magnificent tiled mosque which dominated the skyline for centuries .,dominated,0.37,1,1
+246,81,wsj_0670,The company also said it continues to explore all options concerning the possible sale of National Aluminum 's 54.5 % stake in an aluminum smelter in Hawesville Ky .,sale,0.24,0,1
+246,81,wsj_0670,The company also said it continues to explore all options concerning the possible sale of National Aluminum 's 54.5 % stake in an aluminum smelter in Hawesville Ky .,continues,0.12,1,1
+246,83,wsj_0768,Fidelity 's junk fund has fallen 2.08 % this year through Oct . 19 Lipper says ;,says,0.18,1,1
+246,84,wsj_0661,DPC Acquisition is controlled by Crescott Investment Associates Wilson Investment Group Kernel Corp. and Catalyst Partners .,[NONE],0,1,1
+246,85,wsj_0810,Mr. Fournier said that as Navigation Mixte chairman he is prohibited by takeover regulations from organizing his own defense or doing anything besides managing current company business .,organizing,0.37,0,1
+246,85,wsj_0810,Mr. Fournier said that as Navigation Mixte chairman he is prohibited by takeover regulations from organizing his own defense or doing anything besides managing current company business .,said,0.28,1,1
+246,85,wsj_0810,Mr. Fournier said that as Navigation Mixte chairman he is prohibited by takeover regulations from organizing his own defense or doing anything besides managing current company business .,prohibited,0.19,0,1
+246,86,WSJ910225-0066,Perhaps more important it appears that allied troops have n't yet fully engaged Iraq 's vaunted Republican Guard which has been sitting just north of the Iraq - Kuwait border and is considered the most potent element in the Iraqi defense .,appears,0.22,1,1
+246,86,WSJ910225-0066,Perhaps more important it appears that allied troops have n't yet fully engaged Iraq 's vaunted Republican Guard which has been sitting just north of the Iraq - Kuwait border and is considered the most potent element in the Iraqi defense .,considered,0.22,1,1
+246,86,WSJ910225-0066,Perhaps more important it appears that allied troops have n't yet fully engaged Iraq 's vaunted Republican Guard which has been sitting just north of the Iraq - Kuwait border and is considered the most potent element in the Iraqi defense .,sitting,0.22,1,1
+246,87,APW19980227.0476,Both U.S. and British officials filed objections to the court 's jurisdiction in 1995 claiming Security Council resolutions imposed on Lybia to force the suspects ' extradition overruled a 1971 Convention which gives Libya the right to try the men .,filed,0.45,1,1
+246,87,APW19980227.0476,Both U.S. and British officials filed objections to the court 's jurisdiction in 1995 claiming Security Council resolutions imposed on Lybia to force the suspects ' extradition overruled a 1971 Convention which gives Libya the right to try the men .,claiming,0.15,1,1
+246,87,APW19980227.0476,Both U.S. and British officials filed objections to the court 's jurisdiction in 1995 claiming Security Council resolutions imposed on Lybia to force the suspects ' extradition overruled a 1971 Convention which gives Libya the right to try the men .,force,0.15,1,1
+246,87,APW19980227.0476,Both U.S. and British officials filed objections to the court 's jurisdiction in 1995 claiming Security Council resolutions imposed on Lybia to force the suspects ' extradition overruled a 1971 Convention which gives Libya the right to try the men .,imposed,0.15,1,1
+246,87,APW19980227.0476,Both U.S. and British officials filed objections to the court 's jurisdiction in 1995 claiming Security Council resolutions imposed on Lybia to force the suspects ' extradition overruled a 1971 Convention which gives Libya the right to try the men .,overruled,0.15,1,1
+246,89,wsj_0329,Coda Energy Inc. said it arranged a $ 50 million credit facility with NCNB Texas National Bank a unit of NCNB Corp. of Charlotte N.C.,said,0.09,1,1
+246,90,wsj_0585,Friday 's trading volume totaled 132.8 million shares,totaled,0.27,1,1
+246,91,wsj_0586,They said contributing to the downward drift was the fact that many professional traders had chosen to square positions ahead of the weekend,chosen,0.35,1,1
+246,91,wsj_0586,They said contributing to the downward drift was the fact that many professional traders had chosen to square positions ahead of the weekend,drift,0.35,1,1
+246,91,wsj_0586,They said contributing to the downward drift was the fact that many professional traders had chosen to square positions ahead of the weekend,square,0.35,1,1
+246,91,wsj_0586,They said contributing to the downward drift was the fact that many professional traders had chosen to square positions ahead of the weekend,said,0.18,1,1
+246,92,WSJ910225-0066,The American hope is that someone from within Iraq perhaps from the army 's professional ranks will step forward and push Saddam Hussein aside so that the country can begin recovering from the disaster .,step,0.26,0,1
+246,92,WSJ910225-0066,The American hope is that someone from within Iraq perhaps from the army 's professional ranks will step forward and push Saddam Hussein aside so that the country can begin recovering from the disaster .,begin,0.19,0,1
+246,92,WSJ910225-0066,The American hope is that someone from within Iraq perhaps from the army 's professional ranks will step forward and push Saddam Hussein aside so that the country can begin recovering from the disaster .,[NONE],0,1,0
+246,93,AP900815-0044,Also today King Hussein of Jordan arrived in Washington seeking to mediate the Persian Gulf crisis .,seeking,0.29,1,1
+246,95,wsj_0533,"The Canadian government previously said Merieux 's bid did n't offer enough """" net benefit """" to Canada to be approved and gave Merieux an until mid-November to submit additional information .",said,0.25,1,1
+246,95,wsj_0533,"The Canadian government previously said Merieux 's bid did n't offer enough """" net benefit """" to Canada to be approved and gave Merieux an until mid-November to submit additional information .",submit,0.25,1,1
+246,95,wsj_0533,"The Canadian government previously said Merieux 's bid did n't offer enough """" net benefit """" to Canada to be approved and gave Merieux an until mid-November to submit additional information .",gave,0.12,1,1
+246,95,wsj_0533,"The Canadian government previously said Merieux 's bid did n't offer enough """" net benefit """" to Canada to be approved and gave Merieux an until mid-November to submit additional information .",offer,0.12,1,1
+246,96,wsj_0768,Last week alone an eye-popping $ 1.6 billion flowed out of the junk funds or nearly 5 % of their total assets according to estimates by Dalbar Financial Services Inc. a Boston research firm .,flowed,0.42,1,1
+246,96,wsj_0768,Last week alone an eye-popping $ 1.6 billion flowed out of the junk funds or nearly 5 % of their total assets according to estimates by Dalbar Financial Services Inc. a Boston research firm .,according,0,1,1
+246,98,wsj_0778,A seizure also would make the case the largest -- and one of the first -- in which lawyers ' fees have been confiscated in a prosecution unrelated to drugs,make,0.18,1,1
+246,99,PRI19980303.2000.2550,The instruction is in English for most classes in Arabic for language and religious studies .,[NONE],0,1,1
+246,100,wsj_1013,Columbia announced the results after the close of the stock market,close,0.28,1,1
+247,101,PRI19980303.2000.2550,Pastor James Allmen of the fellowship church and school in Ashburn has led the anti-Saudi campaign,led,0.42,1,1
+247,103,CNN19980213.2130.0155,President Clinton meantime glossed over stern warnings from Moscow on Thursday that US air strikes against Iraq could do serious harm to relations with the Kremlin .,strikes,0.32,1,1
+247,103,CNN19980213.2130.0155,President Clinton meantime glossed over stern warnings from Moscow on Thursday that US air strikes against Iraq could do serious harm to relations with the Kremlin .,do,0,1,1
+247,104,wsj_1031,The giant foods tobacco and brewing company said it will issue common-share purchase rights to shareholders of record Nov . 8 .,said,0.47,1,1
+247,105,AP900815-0044,In other developments : The Pentagon said that Defense Secretary Dick Cheney is considering urging Bush to order a national callup of armed forces reserves for active duty because of the drain on units sending soldiers abroad,order,0.26,1,1
+247,105,AP900815-0044,In other developments : The Pentagon said that Defense Secretary Dick Cheney is considering urging Bush to order a national callup of armed forces reserves for active duty because of the drain on units sending soldiers abroad,said,0.26,1,1
+247,105,AP900815-0044,In other developments : The Pentagon said that Defense Secretary Dick Cheney is considering urging Bush to order a national callup of armed forces reserves for active duty because of the drain on units sending soldiers abroad,urging,0.26,1,1
+247,105,AP900815-0044,In other developments : The Pentagon said that Defense Secretary Dick Cheney is considering urging Bush to order a national callup of armed forces reserves for active duty because of the drain on units sending soldiers abroad,drain,0.09,1,1
+247,105,AP900815-0044,In other developments : The Pentagon said that Defense Secretary Dick Cheney is considering urging Bush to order a national callup of armed forces reserves for active duty because of the drain on units sending soldiers abroad,sending,0.09,0,1
+247,107,NYT19980206.0466,"White House spokesman Mike McCurry and President Clinton in response to an article in The New York Times on Friday about her statements regarding a meeting with the president : Wechsler on Thursday """" Without commenting on the allegations raised in this article to the extent that there is any implication or suggestion that Mrs. Currie was aware of any legal or ethical impropriety by anyone that implication or suggestion is entirely inaccurate . """"",statements,0.3,1,1
+247,107,NYT19980206.0466,"White House spokesman Mike McCurry and President Clinton in response to an article in The New York Times on Friday about her statements regarding a meeting with the president : Wechsler on Thursday """" Without commenting on the allegations raised in this article to the extent that there is any implication or suggestion that Mrs. Currie was aware of any legal or ethical impropriety by anyone that implication or suggestion is entirely inaccurate . """"",raised,0.15,1,1
+247,107,NYT19980206.0466,"White House spokesman Mike McCurry and President Clinton in response to an article in The New York Times on Friday about her statements regarding a meeting with the president : Wechsler on Thursday """" Without commenting on the allegations raised in this article to the extent that there is any implication or suggestion that Mrs. Currie was aware of any legal or ethical impropriety by anyone that implication or suggestion is entirely inaccurate . """"",aware,0.07,1,1
+247,108,wsj_0376,"The sharper definition and the autonomy which each will thereby gain will benefit shareholders customers and employees . """"",[NONE],0,1,1
+247,109,wsj_0904,"Over the next couple of years we would not be surprised to see Europe and international { sales } represent 50 % of the company 's revenues """" he said .",represent,0.45,1,1
+247,109,wsj_0904,"Over the next couple of years we would not be surprised to see Europe and international { sales } represent 50 % of the company 's revenues """" he said .",surprised,0.34,1,1
+247,109,wsj_0904,"Over the next couple of years we would not be surprised to see Europe and international { sales } represent 50 % of the company 's revenues """" he said .",said,0,1,1
+247,109,wsj_0904,"Over the next couple of years we would not be surprised to see Europe and international { sales } represent 50 % of the company 's revenues """" he said .",see,0,1,1
+247,110,Wsj_0610,Mr. Maxwell said he would n't be surprised if over the next two years or so General Mills ' share increased to 30 % or more .,said,0.3,1,1
+247,110,Wsj_0610,Mr. Maxwell said he would n't be surprised if over the next two years or so General Mills ' share increased to 30 % or more .,surprised,0.2,1,1
+247,111,wsj_0568,"Just clobbered """" said Ulric Weil an analyst at Weil amp Associates who had once been high on the company .",high,0.3,1,1
+247,111,wsj_0568,"Just clobbered """" said Ulric Weil an analyst at Weil amp Associates who had once been high on the company .",said,0.3,1,1
+247,112,wsj_0555,Waxman sells a variety of hardware products for the home repair market,[NONE],0,1,0
+247,113,APW19980213.1310,Pro-republicans hope to have an Australian president by the opening of the 2000 Olympics and the 100th anniversary of Australian federation,opening,0.23,1,1
+247,113,APW19980213.1310,Pro-republicans hope to have an Australian president by the opening of the 2000 Olympics and the 100th anniversary of Australian federation,hope,0.12,1,1
+247,113,APW19980213.1310,Pro-republicans hope to have an Australian president by the opening of the 2000 Olympics and the 100th anniversary of Australian federation,have,0,1,1
+247,114,APW19980306.1001,"We are going to maintain our forces in the region for the foreseeable future """" said spokesman Kenneth Bacon .",said,0.2,1,1
+247,115,APW19980418.0210,Farkas expressed the hope he one day follow in the footsteps of fellow astronaut John Glenn who at 77 is about to go into space again .,go,0.37,1,1
+247,115,APW19980418.0210,Farkas expressed the hope he one day follow in the footsteps of fellow astronaut John Glenn who at 77 is about to go into space again .,follow,0.18,1,1
+247,116,wsj_0781,Yesterday Compaq plunged further closing at $ 100 a share off $ 8.625 a share on volume of 2633700 shares .,closing,0.41,1,1
+247,118,wsj_0745,And powerful political pressures may convince the Conservative government to keep its so-called golden share which limits any individual holding to 15 % until the restriction expires on Dec . 31 1990 .,convince,0.45,1,1
+247,118,wsj_0745,And powerful political pressures may convince the Conservative government to keep its so-called golden share which limits any individual holding to 15 % until the restriction expires on Dec . 31 1990 .,keep,0.34,1,1
+247,118,wsj_0745,And powerful political pressures may convince the Conservative government to keep its so-called golden share which limits any individual holding to 15 % until the restriction expires on Dec . 31 1990 .,expires,0.23,1,1
+247,118,wsj_0745,And powerful political pressures may convince the Conservative government to keep its so-called golden share which limits any individual holding to 15 % until the restriction expires on Dec . 31 1990 .,pressures,0.23,1,1
+247,119,wsj_1038,Initially the company said it will close its commercial real-estate lending division and stop originating new leases at its commercial lease subsidiary .,stop,0.33,1,1
+247,119,wsj_1038,Initially the company said it will close its commercial real-estate lending division and stop originating new leases at its commercial lease subsidiary .,said,0.16,1,1
+247,121,wsj_0778,According to department policy prosecutors must make a strong showing that lawyers ' fees came from assets tainted by illegal profits before any attempts at seizure are made .,attempts,0.41,1,1
+247,121,wsj_0778,According to department policy prosecutors must make a strong showing that lawyers ' fees came from assets tainted by illegal profits before any attempts at seizure are made .,showing,0.41,1,1
+247,121,wsj_0778,According to department policy prosecutors must make a strong showing that lawyers ' fees came from assets tainted by illegal profits before any attempts at seizure are made .,came,0.25,1,1
+247,121,wsj_0778,According to department policy prosecutors must make a strong showing that lawyers ' fees came from assets tainted by illegal profits before any attempts at seizure are made .,made,0.08,1,1
+247,121,wsj_0778,According to department policy prosecutors must make a strong showing that lawyers ' fees came from assets tainted by illegal profits before any attempts at seizure are made .,according,0,1,1
+247,122,WSJ900813-0157,Then yesterday he tried to entice Arab leaders with his proposal for a diplomatic solution linking his occupation of Kuwait with Israel 's occupation of the West Bank .,entice,0.39,1,1
+247,122,WSJ900813-0157,Then yesterday he tried to entice Arab leaders with his proposal for a diplomatic solution linking his occupation of Kuwait with Israel 's occupation of the West Bank .,occupation,0.39,1,1
+247,122,WSJ900813-0157,Then yesterday he tried to entice Arab leaders with his proposal for a diplomatic solution linking his occupation of Kuwait with Israel 's occupation of the West Bank .,tried,0.39,1,1
+247,122,WSJ900813-0157,Then yesterday he tried to entice Arab leaders with his proposal for a diplomatic solution linking his occupation of Kuwait with Israel 's occupation of the West Bank .,occupation,0.31,1,1
+247,122,WSJ900813-0157,Then yesterday he tried to entice Arab leaders with his proposal for a diplomatic solution linking his occupation of Kuwait with Israel 's occupation of the West Bank .,linking,0.23,1,1
+247,123,wsj_0938,If a bid materializes at that price shareholders will have every reason to be glad but the question of financing still remains .,remains,0.34,1,1
+247,123,wsj_0938,If a bid materializes at that price shareholders will have every reason to be glad but the question of financing still remains .,glad,0.22,1,1
+247,124,APW19980213.1310,It 's no secret that she 's indicated to me ... she is a 20th century democrat understands that the role of the crown in Australia rests in the hands of the Australian people as it has for almost a hundred years .,indicated,0.6,1,1
+247,124,APW19980213.1310,It 's no secret that she 's indicated to me ... she is a 20th century democrat understands that the role of the crown in Australia rests in the hands of the Australian people as it has for almost a hundred years .,rests,0.3,1,1
+247,124,APW19980213.1310,It 's no secret that she 's indicated to me ... she is a 20th century democrat understands that the role of the crown in Australia rests in the hands of the Australian people as it has for almost a hundred years .,has,0.15,1,1
+247,124,APW19980213.1310,It 's no secret that she 's indicated to me ... she is a 20th century democrat understands that the role of the crown in Australia rests in the hands of the Australian people as it has for almost a hundred years .,understands,0.15,1,1
+247,125,wsj_0167,RMS International Inc. Hasbrouk Heights N.J. facing a cash-flow squeeze said it is seeking other financing sources and waivers from debenture holders .,said,0.2,1,1
+247,125,wsj_0167,RMS International Inc. Hasbrouk Heights N.J. facing a cash-flow squeeze said it is seeking other financing sources and waivers from debenture holders .,facing,0.1,1,1
+247,125,wsj_0167,RMS International Inc. Hasbrouk Heights N.J. facing a cash-flow squeeze said it is seeking other financing sources and waivers from debenture holders .,squeeze,0,1,1
+247,126,wsj_0520,Nashua immediately responded by strengthening a poison-pill plan and saying it will buy back up to one million of its shares or 10.4 % of the 9.6 million outstanding .,strengthening,0.31,1,1
+247,126,wsj_0520,Nashua immediately responded by strengthening a poison-pill plan and saying it will buy back up to one million of its shares or 10.4 % of the 9.6 million outstanding .,saying,0.23,1,1
+247,127,wsj_0348,The Fairfield N.J. company which is 92 % - owned by Ogden Corp. New York had net of $ 1.1 million or four cents a share a year ago .,had,0.2,1,1
+247,128,ABC19980120.1830.0957,Castro has said that you can be a Communist and still be a Christian,[NONE],0.38,1,1
+247,129,wsj_0557,"Louis Gerstner Jr. chairman and chief executive officer of New York-based RJR called the sale a """" significant step """" in the company 's divestiture program as well as a """" a strategic divestiture . """"",[NONE],0,1,1
+247,130,wsj_0610,Initial cost estimates for the plant which was to have been built in phases ranged from $ 1 billion to $ 1.2 billion .,ranged,0,1,1
+247,131,wsj_0810,The Paribas offer values Navigation Mixte at about 23 billion francs depending on how many of Navigation Mixte 's warrants are converted into shares during the takeover battle .,[NONE],0,1,0
+247,133,wsj_0171,"The thrift said that """" after these charges and assuming no dramatic fluctuation in interest rates the association expects to achieve near record earnings in 1990 . """"",charges,0.4,1,1
+247,133,wsj_0171,"The thrift said that """" after these charges and assuming no dramatic fluctuation in interest rates the association expects to achieve near record earnings in 1990 . """"",fluctuation,0.4,1,1
+247,133,wsj_0171,"The thrift said that """" after these charges and assuming no dramatic fluctuation in interest rates the association expects to achieve near record earnings in 1990 . """"",achieve,0.3,1,1
+247,133,wsj_0171,"The thrift said that """" after these charges and assuming no dramatic fluctuation in interest rates the association expects to achieve near record earnings in 1990 . """"",assuming,0.2,1,1
+247,133,wsj_0171,"The thrift said that """" after these charges and assuming no dramatic fluctuation in interest rates the association expects to achieve near record earnings in 1990 . """"",expects,0.2,1,1
+247,133,wsj_0171,"The thrift said that """" after these charges and assuming no dramatic fluctuation in interest rates the association expects to achieve near record earnings in 1990 . """"",said,0.2,1,1
+247,134,NYT19980206.0466,"White House on Thursday """" For the past few weeks we 've been subjected to false leaks designed to mislead both reporters and the American public .",subjected,0.41,1,1
+247,134,NYT19980206.0466,"White House on Thursday """" For the past few weeks we 've been subjected to false leaks designed to mislead both reporters and the American public .",designed,0.31,1,1
+247,134,NYT19980206.0466,"White House on Thursday """" For the past few weeks we 've been subjected to false leaks designed to mislead both reporters and the American public .",mislead,0.2,1,1
+247,135,AP900815-0044,Truckloads of goods rolled into Iraq from Jordan on Tuesday and Iraqi-bound cargo was unloaded from ships at the Red Sea port ofAqaba despite the U.N.-ordered sanctions,sanctions,0.28,1,1
+247,136,wsj_0586,It showed some early resilience after central bank support firmed sterling but the weight of Wall Street late in London trading and signs of further weakness in the British pound proved a hefty load to bear .,firmed,0.32,1,1
+247,136,wsj_0586,It showed some early resilience after central bank support firmed sterling but the weight of Wall Street late in London trading and signs of further weakness in the British pound proved a hefty load to bear .,bear,0.16,1,1
+247,137,wsj_0786,In January American Medical brought in a new chief executive officer Richard A. Gilleland 45 who will remain as chairman president and chief executive .,remain,0.28,1,1
+247,139,wsj_0583,He took Polly Peck once a small fabric wholesaler and used it at as a base to build a conglomerate that has been doubling its profits annually since 1980 .,build,0.53,1,1
+247,139,wsj_0583,He took Polly Peck once a small fabric wholesaler and used it at as a base to build a conglomerate that has been doubling its profits annually since 1980 .,used,0.53,1,1
+247,139,wsj_0583,He took Polly Peck once a small fabric wholesaler and used it at as a base to build a conglomerate that has been doubling its profits annually since 1980 .,took,0.32,1,1
+247,139,wsj_0583,He took Polly Peck once a small fabric wholesaler and used it at as a base to build a conglomerate that has been doubling its profits annually since 1980 .,doubling,0.21,1,1
+247,140,wsj_0263,A year earlier UniFirst earned $ 2.4 million or 24 cents a share adjusted for the split .,earned,0.17,1,1
+247,140,wsj_0263,A year earlier UniFirst earned $ 2.4 million or 24 cents a share adjusted for the split .,split,0.17,1,1
+247,141,ABC19980304.1830.1636,Ned Potter ABC News .,[NONE],0,1,1
+247,142,WSJ900813-0157,They are n't being allowed to leave and could become hostages,hostages,0.33,1,1
+247,142,WSJ900813-0157,They are n't being allowed to leave and could become hostages,leave,0.33,1,1
+247,144,wsj_0555,Waxman Industries Inc. said holders of $ 6542000 face amount of its 6 1/4 % convertible subordinated debentures due March 15 2007 have elected to convert the debt into about 683000 common shares .,convert,0.42,1,1
+247,144,wsj_0555,Waxman Industries Inc. said holders of $ 6542000 face amount of its 6 1/4 % convertible subordinated debentures due March 15 2007 have elected to convert the debt into about 683000 common shares .,said,0.32,1,1
+247,144,wsj_0555,Waxman Industries Inc. said holders of $ 6542000 face amount of its 6 1/4 % convertible subordinated debentures due March 15 2007 have elected to convert the debt into about 683000 common shares .,due,0,1,1
+247,145,APW19980418.0210,However cited by District of Columbia traffic police in December for driving under the influence of alcohol Farkas was ordered home and retired .,retired,0.3,1,1
+247,145,APW19980418.0210,However cited by District of Columbia traffic police in December for driving under the influence of alcohol Farkas was ordered home and retired .,cited,0.2,1,1
+247,146,WSJ910225-0066,Some analysts say he appeared to be relying on a smaller and smaller circle of close advisers and relatives,say,0.16,1,1
+247,147,wsj_1035,"Profit also suffered because of """" intense """" discounting in its long-haul trucking business the company said .",said,0,1,1
+247,148,CNN19980222.1130.0084,Annan wrapped up a three hour meeting with Iraqi president Saddam Hussein in Baghdad today,wrapped,0.47,1,1
+247,150,wsj_0762,The company said the move recognizes its strong financial position,recognizes,0.32,1,1
+247,150,wsj_0762,The company said the move recognizes its strong financial position,said,0.21,1,1
+247,151,AP900816-0139,"Very few """" of the 2500 Americans in occupied Kuwait complied with the order a senior U.S. official told The Associated Press .",told,0.28,1,1
+247,152,Wsj_0356,The plan provides for the distribution of one common stock-purchase right as a dividend for each share of common outstanding,[NONE],0,1,0
+247,153,APW19980306.1001,The procedures are due to go before the Security Council next week,go,0.6,1,1
+247,154,APW19980213.1320,Qantas ' India manager Khursheed Lam said the airline was working closely with the Australian Tourist Commission to develop greater awareness of Australia in the Indian market,develop,0.44,1,1
+247,154,APW19980213.1320,Qantas ' India manager Khursheed Lam said the airline was working closely with the Australian Tourist Commission to develop greater awareness of Australia in the Indian market,working,0.44,1,1
+247,154,APW19980213.1320,Qantas ' India manager Khursheed Lam said the airline was working closely with the Australian Tourist Commission to develop greater awareness of Australia in the Indian market,said,0.11,1,1
+247,155,wsj_0151,But Mr. Ackerman said the buy-back and the above-market price paid prove that Mr. Edelman is running scared .,paid,0.23,1,1
+247,155,wsj_0151,But Mr. Ackerman said the buy-back and the above-market price paid prove that Mr. Edelman is running scared .,said,0.23,1,1
+247,155,wsj_0151,But Mr. Ackerman said the buy-back and the above-market price paid prove that Mr. Edelman is running scared .,prove,0.16,1,1
+247,156,wsj_0685,NW Corp. said the final step in the acquisition of the company has been completed with the merger of CNW with a subsidiary of Chicago amp North Western Holdings Corp,merger,0.39,1,1
+247,156,wsj_0685,NW Corp. said the final step in the acquisition of the company has been completed with the merger of CNW with a subsidiary of Chicago amp North Western Holdings Corp,completed,0.24,1,1
+247,156,wsj_0685,NW Corp. said the final step in the acquisition of the company has been completed with the merger of CNW with a subsidiary of Chicago amp North Western Holdings Corp,said,0.24,1,1
+247,157,PRI19980115.2000.0186,Now the ninth US circuit court of appeals has ruled that the original appeal was flawed since it brought up issues that had not been raised before,ruled,0.35,1,1
+247,157,PRI19980115.2000.0186,Now the ninth US circuit court of appeals has ruled that the original appeal was flawed since it brought up issues that had not been raised before,brought,0.12,1,1
+247,157,PRI19980115.2000.0186,Now the ninth US circuit court of appeals has ruled that the original appeal was flawed since it brought up issues that had not been raised before,flawed,0.12,1,1
+247,157,PRI19980115.2000.0186,Now the ninth US circuit court of appeals has ruled that the original appeal was flawed since it brought up issues that had not been raised before,raised,0.12,1,1
+247,158,wsj_1042,About 1.1 million Class C warrants were issued the company said .,said,0.24,1,1
+247,160,wsj_0026,Imports of the types of watches that now will be eligible for duty-free treatment totaled about $ 37.3 million in 1988 a relatively small share of the $ 1.5 billion in U.S. watch imports that year according to an aide to U.S. Trade Representative Carla Hills .,imports,0.26,0,1
+247,160,wsj_0026,Imports of the types of watches that now will be eligible for duty-free treatment totaled about $ 37.3 million in 1988 a relatively small share of the $ 1.5 billion in U.S. watch imports that year according to an aide to U.S. Trade Representative Carla Hills .,totaled,0.13,1,1
+247,161,wsj_0006,Pacific First Financial Corp. said shareholders approved its acquisition by Royal Trustco Ltd. of Toronto for $ 27 a share or $ 212 million .,said,0.1,1,1
+247,163,wsj_0751,The FDIC cleared the move yesterday and the banks must wait at least 30 days before closing the purchase .,purchase,0.42,1,1
+247,163,wsj_0751,The FDIC cleared the move yesterday and the banks must wait at least 30 days before closing the purchase .,cleared,0.21,1,1
+247,163,wsj_0751,The FDIC cleared the move yesterday and the banks must wait at least 30 days before closing the purchase .,move,0.21,1,1
+247,163,wsj_0751,The FDIC cleared the move yesterday and the banks must wait at least 30 days before closing the purchase .,wait,0.21,1,1
+247,164,wsj_0132,The charges were offset in part by a gain from the sale of the company 's construction division,gain,0.3,1,1
+247,165,VOA19980303.1600.2745,The approach of the year two thousand has many of these groups in a kind of millennial frenzy,approach,0.26,1,1
+247,166,NYT19980212.0019,NEW YORK _ A Brooklyn woman who was watching her clothes dry in a laundromat was killed Thursday evening when two would-be robbers emptied their pistols into the store the police said .,emptied,0.29,1,1
+247,166,NYT19980212.0019,NEW YORK _ A Brooklyn woman who was watching her clothes dry in a laundromat was killed Thursday evening when two would-be robbers emptied their pistols into the store the police said .,said,0.14,1,1
+247,167,WSJ910225-0066,U.S. Marines were said to have breached troublesome mine fields along the Iraqi lines but Pentagon officials said no amphibious assault on Kuwait 's beaches had begun,assault,0.18,1,1
+247,167,WSJ910225-0066,U.S. Marines were said to have breached troublesome mine fields along the Iraqi lines but Pentagon officials said no amphibious assault on Kuwait 's beaches had begun,said,0.18,1,1
+247,167,WSJ910225-0066,U.S. Marines were said to have breached troublesome mine fields along the Iraqi lines but Pentagon officials said no amphibious assault on Kuwait 's beaches had begun,said,0.12,1,1
+247,167,WSJ910225-0066,U.S. Marines were said to have breached troublesome mine fields along the Iraqi lines but Pentagon officials said no amphibious assault on Kuwait 's beaches had begun,begun,0.06,1,1
+247,168,wsj_0159,D Acquisition said the extension is to allow this process to be completed,allow,0.32,1,1
+247,168,wsj_0159,D Acquisition said the extension is to allow this process to be completed,said,0,1,1
+247,169,VOA19980303.1600.2745,The Internet has certainly helped uh hate mongers to organize and uh to feel that they are part of a larger community even if uh they are essentially uh you know angry people sitting in their bedrooms uh all alone .,helped,0.32,1,1
+247,169,VOA19980303.1600.2745,The Internet has certainly helped uh hate mongers to organize and uh to feel that they are part of a larger community even if uh they are essentially uh you know angry people sitting in their bedrooms uh all alone .,feel,0.26,1,1
+247,171,wsj_1006,The non-food operations accounted for about 27 % of Provigo 's 7.38 billion Canadian dollars ( US $ 6.3 billion ) in sales in the latest fiscal year,accounted,0.43,1,1
+247,172,VOA19980501.1800.0355,At a news conference with US Vice President Al Gore in Jerusalem Mr. Netanyahu suggested Israel might be willing to move a little on issues holding up peace but he said he expects an equal effort from the Palestinians .,effort,0.21,1,1
+247,172,VOA19980501.1800.0355,At a news conference with US Vice President Al Gore in Jerusalem Mr. Netanyahu suggested Israel might be willing to move a little on issues holding up peace but he said he expects an equal effort from the Palestinians .,holding,0.21,1,1
+247,172,VOA19980501.1800.0355,At a news conference with US Vice President Al Gore in Jerusalem Mr. Netanyahu suggested Israel might be willing to move a little on issues holding up peace but he said he expects an equal effort from the Palestinians .,conference,0.14,1,1
+247,172,VOA19980501.1800.0355,At a news conference with US Vice President Al Gore in Jerusalem Mr. Netanyahu suggested Israel might be willing to move a little on issues holding up peace but he said he expects an equal effort from the Palestinians .,expects,0.14,1,1
+245,175,wsj_1073,The unit makes intravenous pumps used by hospitals and had more than $ 110 million in sales last year according to Advanced Medical .,sales,0.2,1,1
+245,175,wsj_1073,The unit makes intravenous pumps used by hospitals and had more than $ 110 million in sales last year according to Advanced Medical .,had,0.1,1,1
+245,176,AP900815-0044,The U.N. Security Council on Aug . 6 ordered a global embargo on trade with Iraq as punishment for seizing Kuwait,seizing,0.09,1,1
+245,178,VOA19980501.1800.0355,Mr. Gore called on Israel to continue taking risks for peace,continue,0.37,1,1
+245,178,VOA19980501.1800.0355,Mr. Gore called on Israel to continue taking risks for peace,taking,0.19,1,1
+245,179,wsj_0542,"In the tender offer supplement Dow Jones discloses the different growth forecasts but says it views the 20 % growth rate """" as a hoped-for goal """" of Telerate 's management """" and not as a realistic basis on which to project the company 's likely future performance . """"",discloses,0.52,1,1
+245,179,wsj_0542,"In the tender offer supplement Dow Jones discloses the different growth forecasts but says it views the 20 % growth rate """" as a hoped-for goal """" of Telerate 's management """" and not as a realistic basis on which to project the company 's likely future performance . """"",says,0.17,1,1
+245,179,wsj_0542,"In the tender offer supplement Dow Jones discloses the different growth forecasts but says it views the 20 % growth rate """" as a hoped-for goal """" of Telerate 's management """" and not as a realistic basis on which to project the company 's likely future performance . """"",forecasts,0,1,1
+245,179,wsj_0542,"In the tender offer supplement Dow Jones discloses the different growth forecasts but says it views the 20 % growth rate """" as a hoped-for goal """" of Telerate 's management """" and not as a realistic basis on which to project the company 's likely future performance . """"",views,0,1,1
+245,180,wsj_0557,The candy businesses had sales of about $ 154 million last year which was roughly 12 % of total revenue for RJR 's Planters LifeSavers unit according to a memorandum distributed by RJR 's owner Kohlberg Kravis Roberts amp Co. to bankers last December .,distributed,0.28,1,1
+245,180,wsj_0557,The candy businesses had sales of about $ 154 million last year which was roughly 12 % of total revenue for RJR 's Planters LifeSavers unit according to a memorandum distributed by RJR 's owner Kohlberg Kravis Roberts amp Co. to bankers last December .,had,0.09,1,1
+245,180,wsj_0557,The candy businesses had sales of about $ 154 million last year which was roughly 12 % of total revenue for RJR 's Planters LifeSavers unit according to a memorandum distributed by RJR 's owner Kohlberg Kravis Roberts amp Co. to bankers last December .,according,0,1,1
+245,181,wsj_0586,Traders said the continued turbulence in other markets coupled with the drop in London following the Lawson resignation were responsible .,drop,0.35,1,1
+245,181,wsj_0586,Traders said the continued turbulence in other markets coupled with the drop in London following the Lawson resignation were responsible .,responsible,0.06,1,1
+245,181,wsj_0586,Traders said the continued turbulence in other markets coupled with the drop in London following the Lawson resignation were responsible .,said,0.06,1,1
+245,182,APW19980306.1001,"All sites were inspected to the satisfaction of the inspection team and with full cooperation of Iraqi authorities """" Dacey said .",said,0.1,1,1
+245,184,wsj_0991,Total Assets Protection Inc. rebounding from its earlier loss expects to report earnings from operations of about $ 200000 for the third quarter J.C. Matlock chairman said .,expects,0.1,1,1
+245,184,wsj_0991,Total Assets Protection Inc. rebounding from its earlier loss expects to report earnings from operations of about $ 200000 for the third quarter J.C. Matlock chairman said .,said,0,1,1
+245,186,wsj_0583,"Our company has not been able to cope very effectively with """" changes in the marketplace said Ryosuke Ito Sansui 's president .",cope,0.13,1,1
+245,186,wsj_0583,"Our company has not been able to cope very effectively with """" changes in the marketplace said Ryosuke Ito Sansui 's president .",able,0.07,1,1
+245,186,wsj_0583,"Our company has not been able to cope very effectively with """" changes in the marketplace said Ryosuke Ito Sansui 's president .",said,0.07,1,1
+245,188,wsj_0938,Mr. Drabinsky who would have had the right to vote those shares for two years said the purchase subsequently rejected by regulators was aimed at consolidating his control of the company .,consolidating,0.37,1,1
+245,188,wsj_0938,Mr. Drabinsky who would have had the right to vote those shares for two years said the purchase subsequently rejected by regulators was aimed at consolidating his control of the company .,vote,0.37,1,1
+245,188,wsj_0938,Mr. Drabinsky who would have had the right to vote those shares for two years said the purchase subsequently rejected by regulators was aimed at consolidating his control of the company .,rejected,0.27,1,1
+245,188,wsj_0938,Mr. Drabinsky who would have had the right to vote those shares for two years said the purchase subsequently rejected by regulators was aimed at consolidating his control of the company .,aimed,0.09,1,1
+245,188,wsj_0938,Mr. Drabinsky who would have had the right to vote those shares for two years said the purchase subsequently rejected by regulators was aimed at consolidating his control of the company .,had,0.09,1,1
+245,188,wsj_0938,Mr. Drabinsky who would have had the right to vote those shares for two years said the purchase subsequently rejected by regulators was aimed at consolidating his control of the company .,said,0.09,1,1
+246,189,wsj_0791,Yesterday it closed at $ 4.375 a share up $ 1.125 in national over-the-counter trading .,trading,0.11,1,1
+246,190,PRI19980303.2000.2550,We do not further the purpose of human rights in the world by violating the human rights under our own constitution,further,0.38,1,1
+246,191,wsj_0557,"RJR Nabisco and Planters LifeSavers will concentrate more on our own core businesses """" Mr. Gerstner said Friday .",concentrate,0.43,1,1
+246,191,wsj_0557,"RJR Nabisco and Planters LifeSavers will concentrate more on our own core businesses """" Mr. Gerstner said Friday .",said,0.14,1,1
+246,192,Wsj_0816,In late New York trading the dollar was at 1.8400 marks and 142.10 yen compared with 1.8353 marks and 141.52 yen Wednesday,[NONE],0,1,0
+246,193,AP900815-0044,CBS News report citing unidentified Jordanian sources said that Saddam 's message called for an international conference to be convened to discuss an Iraqi withdrawal from Kuwait,convened,0.21,1,1
+246,193,AP900815-0044,CBS News report citing unidentified Jordanian sources said that Saddam 's message called for an international conference to be convened to discuss an Iraqi withdrawal from Kuwait,discuss,0.16,1,1
+246,193,AP900815-0044,CBS News report citing unidentified Jordanian sources said that Saddam 's message called for an international conference to be convened to discuss an Iraqi withdrawal from Kuwait,called,0.05,1,1
+246,193,AP900815-0044,CBS News report citing unidentified Jordanian sources said that Saddam 's message called for an international conference to be convened to discuss an Iraqi withdrawal from Kuwait,citing,0.05,1,1
+246,193,AP900815-0044,CBS News report citing unidentified Jordanian sources said that Saddam 's message called for an international conference to be convened to discuss an Iraqi withdrawal from Kuwait,said,0.05,1,1
+246,196,NYT19980424.0421,Butinstead of providing the votes to strike it down they chose to uphold it on the flimsy ground that because the sex of the parent and not the child made the difference under the law the plaintiff did not have standing to bring the case .,providing,0.23,1,1
+246,196,NYT19980424.0421,Butinstead of providing the votes to strike it down they chose to uphold it on the flimsy ground that because the sex of the parent and not the child made the difference under the law the plaintiff did not have standing to bring the case .,bring,0.12,1,1
+246,197,wsj_0171,The company said the one-time provision would substantially eliminate all future losses at the unit,losses,0.32,1,1
+246,197,wsj_0171,The company said the one-time provision would substantially eliminate all future losses at the unit,said,0.32,1,1
+246,198,WSJ910225-0066,"Secretary of State James Baker said on ABC - TV 's """" This Week With David Brinkley """" that the series of United Nations resolutions condemning Iraq 's invasion of Kuwait """" imply that the restoration of peace and stability in the Gulf would be a heck of a lot easier if he and that leadership were not in power in Iraq . """"",restoration,0.24,1,1
+246,198,WSJ910225-0066,"Secretary of State James Baker said on ABC - TV 's """" This Week With David Brinkley """" that the series of United Nations resolutions condemning Iraq 's invasion of Kuwait """" imply that the restoration of peace and stability in the Gulf would be a heck of a lot easier if he and that leadership were not in power in Iraq . """"",condemning,0.14,1,1
+246,198,WSJ910225-0066,"Secretary of State James Baker said on ABC - TV 's """" This Week With David Brinkley """" that the series of United Nations resolutions condemning Iraq 's invasion of Kuwait """" imply that the restoration of peace and stability in the Gulf would be a heck of a lot easier if he and that leadership were not in power in Iraq . """"",imply,0.1,1,1
+246,198,WSJ910225-0066,"Secretary of State James Baker said on ABC - TV 's """" This Week With David Brinkley """" that the series of United Nations resolutions condemning Iraq 's invasion of Kuwait """" imply that the restoration of peace and stability in the Gulf would be a heck of a lot easier if he and that leadership were not in power in Iraq . """"",said,0.1,1,1
+246,199,wsj_0135,Elco Industries Inc. said it expects net income in the year ending June 30 1990 to fall below a recent analyst 's estimate of $ 1.65 a share .,expects,0.57,1,1
+246,199,wsj_0135,Elco Industries Inc. said it expects net income in the year ending June 30 1990 to fall below a recent analyst 's estimate of $ 1.65 a share .,said,0.28,1,1
+246,199,wsj_0135,Elco Industries Inc. said it expects net income in the year ending June 30 1990 to fall below a recent analyst 's estimate of $ 1.65 a share .,ending,0,1,1
+246,199,wsj_0135,Elco Industries Inc. said it expects net income in the year ending June 30 1990 to fall below a recent analyst 's estimate of $ 1.65 a share .,fall,0,1,1
+246,200,APW19980501.0480,Other than usage in business Internet technology is also beginning to infiltrate the lifestyle domain .,infiltrate,0.51,1,1
+246,200,APW19980501.0480,Other than usage in business Internet technology is also beginning to infiltrate the lifestyle domain .,usage,0.51,1,1
+246,200,APW19980501.0480,Other than usage in business Internet technology is also beginning to infiltrate the lifestyle domain .,beginning,0.34,1,1
+246,200,APW19980501.0480,Other than usage in business Internet technology is also beginning to infiltrate the lifestyle domain .,business,0.17,0,0
+245,1,wsj_0173,The Avon Conn . company 's stock hit a high in 1983 after it unveiled its Adam home computer but the product was plagued with glitches and the company 's fortunes plunged .,plunged,0.53,1,1
+245,1,wsj_0173,The Avon Conn . company 's stock hit a high in 1983 after it unveiled its Adam home computer but the product was plagued with glitches and the company 's fortunes plunged .,unveiled,0.46,1,1
+245,1,wsj_0173,The Avon Conn . company 's stock hit a high in 1983 after it unveiled its Adam home computer but the product was plagued with glitches and the company 's fortunes plunged .,hit,0.4,1,1
+245,2,wsj_1013,"Thomas Spiegel Columbia 's chairman said in a statement that the thrift was """" disappointed """" by the effects of the accounting changes .",changes,0.65,1,1
+245,3,wsj_0660,The companies said the transaction is being structured this way because the laws of the Netherlands Antilles under which Erbamont is organized do n't provide for merger transactions .,transaction,0.69,0,1
+245,3,wsj_0660,The companies said the transaction is being structured this way because the laws of the Netherlands Antilles under which Erbamont is organized do n't provide for merger transactions .,transactions,0.48,0,1
+245,4,APW19980227.0487,Har - Shefi said she heard Amir talk about killing Rabin but did not tell the police because she did not believe he was serious,killing,0.63,1,1
+245,5,wsj_0505,They said they expect the transaction to be completed by Dec . 15,transaction,0.85,1,1
+245,6,wsj_0816,Yield on the issue was 7.88 %,Yield,0.7,0,1
+245,8,wsj_0586,Share prices also closed lower in Sydney Hong Kong Singapore Taipei Manila Wellington and Seoul .,closed,0.93,1,1
+245,9,wsj_0585,And to protect their reduced capital investment from eroding further market makers became quicker to lower price quotes when sell programs are in progress .,eroding,0.64,1,1
+245,11,Wsj_0151,Mr. Ackerman already is seeking to oust Mr. Edelman as chairman of Datapoint Corp. an Intelogic affiliate .,oust,0.8,1,1
+245,12,wsj_0584,In response to BellSouth 's amended pact the Kirkland Wash . company extended its own offer to buy 22 million LIN shares for $ 125 apiece which would give McCaw a 50.3 % controlling interest .,extended,0.49,1,1
+245,14,NYT19980212.0019,The other customers fled and the police said it did not appear that anyone else was injured .,fled,0.83,1,1
+245,15,wsj_0340,Earlier yesterday the Societe de Bourses Francaises was told that a unit of Framatome S.A. also bought Navigation Mixte shares this purchase covering more than 160000 shares .,bought,0.57,1,1
+245,16,wsj_0585,IN Broadcasting surged 4 5/8 to 112 5/8,surged,0.94,1,1
+245,17,APW19980213.1320,This will add nearly 700 seats a week on the route,will add,0.84,1,1
+245,18,wsj_0127,The British paper packaging and publishing concern said profit from continuing lines fell 10 % to # 118 million from # 130.6 million .,fell,0.72,1,1
+245,19,wsj_0527,Crossland said it retained three investment bankers to assist it in developing and implementing a financial restructuring plan,retained,0.56,1,1
+245,21,wsj_0570,Under the terms Milton Roy will pay an initial $ 4 million for the operations and additional payments during the next four years based on the earnings performance of the businesses .,pay,0.82,1,1
+245,24,wsj_0027,They expect him to cut costs throughout the organization,cut,0.83,0,1
+245,27,wsj_1031,Under certain circumstances the rights would entitle Philip Morris holders to buy shares of either the company or its acquirer for half price .,buy,0.8,1,1
+245,28,wsj_0324,The acquisition brings together the two largest competitors to Home Shopping Network Inc. which now reaches more viewers than any other company in the video shopping industry .,acquisition,0.86,1,1
+245,29,wsj_1039,Amdahl 's results were somewhat worse than expected,results,0.9,1,1
+245,30,wsj_1013,Columbia officials said they do n't know how quickly they will dispose of the thrift 's junk bonds because federal regulations such as those that would allow thrifts to continue holding the bonds in separately capitalized subsidiaries have n't yet been completed .,dispose,0.55,1,1
+245,31,ABC19980108.1830.0711,And Wong Kwan will be lucky to break even,break,0.65,1,1
+245,32,wsj_0610,As expected Kellogg reported lower third-quarter earnings .,reported,0.91,1,1
+245,33,wsj_1033,The unit said it can provide no assurance a transaction will occur,transaction,0.85,1,1
+245,35,wsj_0172,The Midwest Financial subsidiary banks will continue to operate under their current names until early 1990 when each will adopt the First of America name .,adopt,0.58,1,1
+245,36,wsj_1008,Lawrence Insurance underwrites mostly primary insurance a company spokesman said .,underwrites,0.84,1,1
+245,37,wsj_1013,Its ratio of tangible equity to total assets as of Sept . 30 was 3.6 % and total equity was $ 457.9 million .,[NONE],0.82,1,1
+245,38,wsj_0161,In addition Hadson said it will write off about $ 3.5 million in costs related to international exploration leases where exploration efforts have been unsuccessful .,write,0.57,1,1
+245,39,AP900816-0139,"British Foreign Office minister William Waldegrave called the order """" grave and sinister . """"",called,0.69,1,1
+245,39,AP900816-0139,"British Foreign Office minister William Waldegrave called the order """" grave and sinister . """"",order,0.69,0,1
+245,41,wsj_0679,Hewlett - Packard Co. said it raised its stake in Octel Communications Corp. to 8.5 % of the common shares outstanding,raised,0.73,1,1
+245,42,wsj_0585,Merrill Lynch Goldman Sachs and Kidder Peabody in addition to Shearson do program-trade OTC stocks .,program-trade,0.86,0,0
+245,43,wsj_0585,Because of program trading it is more difficult to trade many OTC stocks without sharp price moves a condition known as illiquidity .,trade,0.69,1,1
+245,44,wsj_0124,In American Stock Exchange composite trading Citadel shares closed yesterday at $ 45.75 down 25 cents .,closed,0.69,1,1
+245,46,APW19980219.0476,His men have held the stronghold _ which is on the border just opposite the Thai province of Surin _ against repeated intense attacks by Hun Sen 's troops,attacks,0.66,1,1
+245,47,wsj_1006,Mr. Lortie 's departure while sudden was seen as inevitable in light of the shift in strategy .,departure,0.85,1,1
+245,48,CNN19980223.1130.0960,Weakened oil prices have already made life easier for motorists at the gas pump,Weakened,0.56,0,1
+245,50,WSJ900813-0157,"The Bush administration immediately said it """" categorically """" rejects the proposals .",proposals,0.65,1,1
+245,50,WSJ900813-0157,"The Bush administration immediately said it """" categorically """" rejects the proposals .",rejects,0.65,1,1
+246,51,VOA19980305.1800.2603,She says security under the fundamentalist Taleban government is better but everything else is worse .,says,0.67,1,1
+246,52,wsj_0344,Net sales for this year 's third quarter were $ 14 million down from $ 21.4 million last year .,[NONE],0.83,1,1
+246,54,wsj_0583,Japanese government officials eager to rebut foreign criticism of Japanese investments overseas hailed the transaction as proof foreigners can make similar investments in Japan .,transaction,0.37,1,1
+246,54,wsj_0583,Japanese government officials eager to rebut foreign criticism of Japanese investments overseas hailed the transaction as proof foreigners can make similar investments in Japan .,criticism,0.3,1,1
+246,54,wsj_0583,Japanese government officials eager to rebut foreign criticism of Japanese investments overseas hailed the transaction as proof foreigners can make similar investments in Japan .,hailed,0.3,1,1
+246,54,wsj_0583,Japanese government officials eager to rebut foreign criticism of Japanese investments overseas hailed the transaction as proof foreigners can make similar investments in Japan .,investments,0.3,0,1
+246,54,wsj_0583,Japanese government officials eager to rebut foreign criticism of Japanese investments overseas hailed the transaction as proof foreigners can make similar investments in Japan .,rebut,0.3,1,1
+246,56,wsj_1003,Of all the major steelmakers Bethlehem would seem to be the most vulnerable to a slowdown .,slowdown,0.81,1,1
+246,57,wsj_0950,In the nine months GM Hughes net fell 6.6 % to $ 486.6 million or $ 1.48 a share from $ 521 million or $ 1.58 a share .,fell,0.71,0,1
+246,59,WSJ900813-0157,Two Middle East terrorists with records of successful attacks against Western targets Abu Nidal and Abu Abbas have ties to Baghdad .,attacks,0.73,0,1
+246,60,wsj_0781,Intel 's microprocessors are the chips of choice in many of today 's personal computers and the 80486 microprocessor is the spearhead of the company 's bid to guard that spot in the next generation of machines,[NONE],0.7,1,1
+246,61,WSJ910225-0066,There are likely to be additional American prisoners of war taken and there are signs that President Hussein is taking Kuwaiti hostages .,taking,0.38,1,1
+246,62,wsj_1006,Bertin Nadeau newly appointed chairman and interim chief executive of Provigo would n't say if Mr. Lortie was asked to leave .,appointed,0.69,1,1
+246,63,wsj_0132,The 32 % state-owned DSM had eight million guilders of extraordinary charges in the latest quarter mainly to reflect one-time losses in connection with the disposal of some operations .,disposal,0.62,1,1
+246,63,wsj_0132,The 32 % state-owned DSM had eight million guilders of extraordinary charges in the latest quarter mainly to reflect one-time losses in connection with the disposal of some operations .,charges,0.41,1,1
+246,63,wsj_0132,The 32 % state-owned DSM had eight million guilders of extraordinary charges in the latest quarter mainly to reflect one-time losses in connection with the disposal of some operations .,losses,0.41,1,1
+246,65,wsj_0973,The deal which will involve an initial $ 20 million investment was struck with a handshake he added .,handshake,0.59,1,1
+246,65,wsj_0973,The deal which will involve an initial $ 20 million investment was struck with a handshake he added .,deal,0.53,1,1
+246,65,wsj_0973,The deal which will involve an initial $ 20 million investment was struck with a handshake he added .,struck,0.42,1,1
+246,66,ABC19980108.1830.0711,They believe ah it will be always up going up and up ah forever,going,0.67,1,1
+246,68,ea980120.1830.0071,But now we 're going to go back to New York where Diane Sawyer has the rest of the news .,go,0.38,1,1
+246,71,APW19980227.0489,The assassination touched off a murderous rampage by Hutu security forces and civilians who slaughtered mainly Tutsis but also Hutus who favored reconciliation with the minority .,assassination,0.56,1,1
+246,71,APW19980227.0489,The assassination touched off a murderous rampage by Hutu security forces and civilians who slaughtered mainly Tutsis but also Hutus who favored reconciliation with the minority .,rampage,0.47,1,1
+246,71,APW19980227.0489,The assassination touched off a murderous rampage by Hutu security forces and civilians who slaughtered mainly Tutsis but also Hutus who favored reconciliation with the minority .,slaughtered,0.37,1,1
+246,71,APW19980227.0489,The assassination touched off a murderous rampage by Hutu security forces and civilians who slaughtered mainly Tutsis but also Hutus who favored reconciliation with the minority .,touched,0.37,1,1
+246,72,wsj_0610,Led by its oat-based Cheerios line General Mills has gained an estimated 2 % share so far this year mostly at the expense of Kellogg .,gained,0.59,1,1
+246,73,PRI19980213.2000.0313,And in San Francisco a mansion overlooking the Pacific Ocean and the Golden Gate Bridge is slipping toward the sea .,slipping,0.66,1,1
+246,74,ABC19980108.1830.0711,You can get seventy percent discounts at the shopping malls,discounts,0.79,1,1
+246,76,CNN19980227.2130.0067,New evidence is suggesting that a series of bombings in Atalanta and last month 's explosion at an Alabama women 's clinic might be related,bombings,0.74,1,1
+246,76,CNN19980227.2130.0067,New evidence is suggesting that a series of bombings in Atalanta and last month 's explosion at an Alabama women 's clinic might be related,explosion,0.44,1,1
+246,77,wsj_0768,Junk-fund holders have barely broken even this year as fat interest payments barely managed to offset declining prices .,broken,0.51,1,1
+246,77,wsj_0768,Junk-fund holders have barely broken even this year as fat interest payments barely managed to offset declining prices .,managed,0.43,1,1
+246,78,wsj_1006,In a related move Pierre Lortie chairman and chief executive resigned .,resigned,0.9,1,1
+246,80,PRI19980121.2000.2591,Most of the city 's monuments were destroyed including a magnificent tiled mosque which dominated the skyline for centuries .,destroyed,0.82,1,1
+246,81,wsj_0670,The company also said it continues to explore all options concerning the possible sale of National Aluminum 's 54.5 % stake in an aluminum smelter in Hawesville Ky .,explore,0.6,1,1
+246,81,wsj_0670,The company also said it continues to explore all options concerning the possible sale of National Aluminum 's 54.5 % stake in an aluminum smelter in Hawesville Ky .,said,0.36,1,1
+246,82,APW19980322.0749,Police arrested six Protestants on suspicion of rioting,arrested,0.55,1,1
+246,83,wsj_0768,Fidelity 's junk fund has fallen 2.08 % this year through Oct . 19 Lipper says ;,fallen,0.62,1,1
+246,85,wsj_0810,Mr. Fournier said that as Navigation Mixte chairman he is prohibited by takeover regulations from organizing his own defense or doing anything besides managing current company business .,managing,0.46,0,1
+246,86,WSJ910225-0066,Perhaps more important it appears that allied troops have n't yet fully engaged Iraq 's vaunted Republican Guard which has been sitting just north of the Iraq - Kuwait border and is considered the most potent element in the Iraqi defense .,engaged,0.55,1,1
+246,88,wsj_0927,As a result U.S. Trust 's earnings have been hurt .,hurt,0.52,1,1
+246,89,wsj_0329,Coda Energy Inc. said it arranged a $ 50 million credit facility with NCNB Texas National Bank a unit of NCNB Corp. of Charlotte N.C.,arranged,0.74,1,1
+246,90,wsj_0585,Friday 's trading volume totaled 132.8 million shares,trading,0.82,0,1
+246,92,WSJ910225-0066,The American hope is that someone from within Iraq perhaps from the army 's professional ranks will step forward and push Saddam Hussein aside so that the country can begin recovering from the disaster .,push,0.52,0,1
+246,93,AP900815-0044,Also today King Hussein of Jordan arrived in Washington seeking to mediate the Persian Gulf crisis .,crisis,0.46,1,1
+246,93,AP900815-0044,Also today King Hussein of Jordan arrived in Washington seeking to mediate the Persian Gulf crisis .,arrived,0.4,1,1
+246,93,AP900815-0044,Also today King Hussein of Jordan arrived in Washington seeking to mediate the Persian Gulf crisis .,mediate,0.4,1,1
+246,94,wsj_0760,However the company 's petroleum services segment while profitable was hurt by high financing costs associated with the company 's buy-out of a 50 % stake in Eastman Christensen Co. from Texas Eastern Corp. last June .,buy-out,0.55,1,1
+246,94,wsj_0760,However the company 's petroleum services segment while profitable was hurt by high financing costs associated with the company 's buy-out of a 50 % stake in Eastman Christensen Co. from Texas Eastern Corp. last June .,hurt,0.55,1,1
+246,97,APW19980219.0476,At the time Howes was captured the Khmer Rouge were a more or less united guerrilla force with more than 10000 men under arms .,captured,0.8,1,1
+246,98,wsj_0778,A seizure also would make the case the largest -- and one of the first -- in which lawyers ' fees have been confiscated in a prosecution unrelated to drugs,seizure,0.68,1,1
+246,100,wsj_1013,Columbia announced the results after the close of the stock market,announced,0.68,1,1
+247,101,PRI19980303.2000.2550,Pastor James Allmen of the fellowship church and school in Ashburn has led the anti-Saudi campaign,campaign,0.75,1,1
+247,102,wsj_0781,The real culprits they said are computer makers such as IBM that have jumped the gun to unveil 486-based products .,unveil,0.59,1,1
+247,102,wsj_0781,The real culprits they said are computer makers such as IBM that have jumped the gun to unveil 486-based products .,jumped,0.49,1,1
+247,102,wsj_0781,The real culprits they said are computer makers such as IBM that have jumped the gun to unveil 486-based products .,said,0.39,1,1
+247,103,CNN19980213.2130.0155,President Clinton meantime glossed over stern warnings from Moscow on Thursday that US air strikes against Iraq could do serious harm to relations with the Kremlin .,glossed,0.48,1,1
+247,103,CNN19980213.2130.0155,President Clinton meantime glossed over stern warnings from Moscow on Thursday that US air strikes against Iraq could do serious harm to relations with the Kremlin .,warnings,0.4,1,1
+247,104,wsj_1031,The giant foods tobacco and brewing company said it will issue common-share purchase rights to shareholders of record Nov . 8 .,issue,0.59,1,1
+247,105,AP900815-0044,In other developments : The Pentagon said that Defense Secretary Dick Cheney is considering urging Bush to order a national callup of armed forces reserves for active duty because of the drain on units sending soldiers abroad,considering,0.52,1,1
+247,105,AP900815-0044,In other developments : The Pentagon said that Defense Secretary Dick Cheney is considering urging Bush to order a national callup of armed forces reserves for active duty because of the drain on units sending soldiers abroad,callup,0.35,1,1
+247,106,AP900816-0139,We 're there to stay for a fairly lengthy period,stay,0.73,1,1
+247,110,Wsj_0610,Mr. Maxwell said he would n't be surprised if over the next two years or so General Mills ' share increased to 30 % or more .,increased,0.7,1,1
+247,111,wsj_0568,"Just clobbered """" said Ulric Weil an analyst at Weil amp Associates who had once been high on the company .",clobbered,0.76,0,1
+247,112,wsj_0555,Waxman sells a variety of hardware products for the home repair market,sells,0.9,0,1
+247,114,APW19980306.1001,"We are going to maintain our forces in the region for the foreseeable future """" said spokesman Kenneth Bacon .",maintain,0.7,1,1
+247,114,APW19980306.1001,"We are going to maintain our forces in the region for the foreseeable future """" said spokesman Kenneth Bacon .",forces,0.5,0,0
+247,115,APW19980418.0210,Farkas expressed the hope he one day follow in the footsteps of fellow astronaut John Glenn who at 77 is about to go into space again .,expressed,0.55,1,1
+247,116,wsj_0781,Yesterday Compaq plunged further closing at $ 100 a share off $ 8.625 a share on volume of 2633700 shares .,plunged,0.82,1,1
+247,117,APW19980213.1310,The idea of a republic will fall to dust through the grace of almighty God,fall,0.73,1,1
+247,119,wsj_1038,Initially the company said it will close its commercial real-estate lending division and stop originating new leases at its commercial lease subsidiary .,close,0.49,1,1
+247,119,wsj_1038,Initially the company said it will close its commercial real-estate lending division and stop originating new leases at its commercial lease subsidiary .,originating,0.41,1,1
+247,120,wsj_0325,During the third quarter the company charged about $ 46 million against earnings in reducing goodwill added $ 20 million to its general loan loss reserves and established a $ 30 million reserve for its high-yield bond portfolio .,added,0.52,1,1
+247,120,wsj_0325,During the third quarter the company charged about $ 46 million against earnings in reducing goodwill added $ 20 million to its general loan loss reserves and established a $ 30 million reserve for its high-yield bond portfolio .,charged,0.42,1,1
+247,120,wsj_0325,During the third quarter the company charged about $ 46 million against earnings in reducing goodwill added $ 20 million to its general loan loss reserves and established a $ 30 million reserve for its high-yield bond portfolio .,established,0.42,1,1
+247,121,wsj_0778,According to department policy prosecutors must make a strong showing that lawyers ' fees came from assets tainted by illegal profits before any attempts at seizure are made .,seizure,0.49,1,1
+247,122,WSJ900813-0157,Then yesterday he tried to entice Arab leaders with his proposal for a diplomatic solution linking his occupation of Kuwait with Israel 's occupation of the West Bank .,proposal,0.54,1,1
+247,123,wsj_0938,If a bid materializes at that price shareholders will have every reason to be glad but the question of financing still remains .,materializes,0.67,1,1
+247,125,wsj_0167,RMS International Inc. Hasbrouk Heights N.J. facing a cash-flow squeeze said it is seeking other financing sources and waivers from debenture holders .,seeking,0.59,1,1
+247,126,wsj_0520,Nashua immediately responded by strengthening a poison-pill plan and saying it will buy back up to one million of its shares or 10.4 % of the 9.6 million outstanding .,buy,0.54,1,1
+247,126,wsj_0520,Nashua immediately responded by strengthening a poison-pill plan and saying it will buy back up to one million of its shares or 10.4 % of the 9.6 million outstanding .,responded,0.46,1,1
+247,131,wsj_0810,The Paribas offer values Navigation Mixte at about 23 billion francs depending on how many of Navigation Mixte 's warrants are converted into shares during the takeover battle .,converted,0.62,0,1
+247,131,wsj_0810,The Paribas offer values Navigation Mixte at about 23 billion francs depending on how many of Navigation Mixte 's warrants are converted into shares during the takeover battle .,takeover,0.48,0,1
+247,132,wsj_0376,Courtaulds Chairman and Chief Executive Sir Christopher Hogg will remain in both posts at the surviving chemical company after the spinoff,remain,0.74,1,1
+247,133,wsj_0171,"The thrift said that """" after these charges and assuming no dramatic fluctuation in interest rates the association expects to achieve near record earnings in 1990 . """"",earnings,0.5,1,1
+247,135,AP900815-0044,Truckloads of goods rolled into Iraq from Jordan on Tuesday and Iraqi-bound cargo was unloaded from ships at the Red Sea port ofAqaba despite the U.N.-ordered sanctions,rolled,0.57,1,1
+247,135,AP900815-0044,Truckloads of goods rolled into Iraq from Jordan on Tuesday and Iraqi-bound cargo was unloaded from ships at the Red Sea port ofAqaba despite the U.N.-ordered sanctions,unloaded,0.57,1,1
+247,137,wsj_0786,In January American Medical brought in a new chief executive officer Richard A. Gilleland 45 who will remain as chairman president and chief executive .,brought,0.47,1,1
+247,138,wsj_0171,The thrift has assets of $ 3.2 billion,has,0.66,1,1
+247,141,ABC19980304.1830.1636,Ned Potter ABC News .,News,0.88,0,0
+247,142,WSJ900813-0157,They are n't being allowed to leave and could become hostages,allowed,0.65,1,1
+247,142,WSJ900813-0157,They are n't being allowed to leave and could become hostages,become,0.41,1,1
+247,143,APW19980501.0480,With intranets in place it is only logical for organisations to respectively link the network to other companies ' for extended business purposes through extranets .,link,0.75,1,1
+247,144,wsj_0555,Waxman Industries Inc. said holders of $ 6542000 face amount of its 6 1/4 % convertible subordinated debentures due March 15 2007 have elected to convert the debt into about 683000 common shares .,elected,0.53,1,1
+247,145,APW19980418.0210,However cited by District of Columbia traffic police in December for driving under the influence of alcohol Farkas was ordered home and retired .,driving,0.49,1,1
+247,145,APW19980418.0210,However cited by District of Columbia traffic police in December for driving under the influence of alcohol Farkas was ordered home and retired .,ordered,0.49,1,1
+247,146,WSJ910225-0066,Some analysts say he appeared to be relying on a smaller and smaller circle of close advisers and relatives,relying,0.71,1,1
+247,146,WSJ910225-0066,Some analysts say he appeared to be relying on a smaller and smaller circle of close advisers and relatives,appeared,0.56,1,1
+247,147,wsj_1035,"Profit also suffered because of """" intense """" discounting in its long-haul trucking business the company said .",discounting,0.68,1,1
+247,147,wsj_1035,"Profit also suffered because of """" intense """" discounting in its long-haul trucking business the company said .",suffered,0.57,1,1
+247,148,CNN19980222.1130.0084,Annan wrapped up a three hour meeting with Iraqi president Saddam Hussein in Baghdad today,meeting,0.85,1,1
+247,149,wsj_0781,An IBM spokeswoman said the company told customers Monday about the bugs and temporarily stopped shipping the product,stopped,0.54,1,1
+247,149,wsj_0781,An IBM spokeswoman said the company told customers Monday about the bugs and temporarily stopped shipping the product,shipping,0.46,1,1
+247,149,wsj_0781,An IBM spokeswoman said the company told customers Monday about the bugs and temporarily stopped shipping the product,told,0.46,1,1
+247,149,wsj_0781,An IBM spokeswoman said the company told customers Monday about the bugs and temporarily stopped shipping the product,said,0.38,1,1
+247,150,wsj_0762,The company said the move recognizes its strong financial position,move,0.85,1,1
+247,151,AP900816-0139,"Very few """" of the 2500 Americans in occupied Kuwait complied with the order a senior U.S. official told The Associated Press .",complied,0.66,1,1
+247,152,Wsj_0356,The plan provides for the distribution of one common stock-purchase right as a dividend for each share of common outstanding,distribution,0.95,0,1
+247,155,wsj_0151,But Mr. Ackerman said the buy-back and the above-market price paid prove that Mr. Edelman is running scared .,buy-back,0.62,1,1
+247,155,wsj_0151,But Mr. Ackerman said the buy-back and the above-market price paid prove that Mr. Edelman is running scared .,running,0.47,1,1
+247,156,wsj_0685,NW Corp. said the final step in the acquisition of the company has been completed with the merger of CNW with a subsidiary of Chicago amp North Western Holdings Corp,acquisition,0.63,1,1
+247,157,PRI19980115.2000.0186,Now the ninth US circuit court of appeals has ruled that the original appeal was flawed since it brought up issues that had not been raised before,appeal,0.58,1,1
+247,158,wsj_1042,About 1.1 million Class C warrants were issued the company said .,issued,0.79,1,1
+247,159,wsj_0568,The quarter was terrible and the future looks anything but encouraging .,[NONE],0.67,1,1
+247,160,wsj_0026,Imports of the types of watches that now will be eligible for duty-free treatment totaled about $ 37.3 million in 1988 a relatively small share of the $ 1.5 billion in U.S. watch imports that year according to an aide to U.S. Trade Representative Carla Hills .,Imports,0.66,0,1
+247,160,wsj_0026,Imports of the types of watches that now will be eligible for duty-free treatment totaled about $ 37.3 million in 1988 a relatively small share of the $ 1.5 billion in U.S. watch imports that year according to an aide to U.S. Trade Representative Carla Hills .,eligible,0.53,1,1
+247,161,wsj_0006,Pacific First Financial Corp. said shareholders approved its acquisition by Royal Trustco Ltd. of Toronto for $ 27 a share or $ 212 million .,acquisition,0.71,1,1
+247,161,wsj_0006,Pacific First Financial Corp. said shareholders approved its acquisition by Royal Trustco Ltd. of Toronto for $ 27 a share or $ 212 million .,approved,0.51,1,1
+247,162,wsj_0184,The program available to Upjohn employees 55 years old or older could increase an individual 's retirement benefits 10 % to 20 % .,increase,0.78,1,1
+247,163,wsj_0751,The FDIC cleared the move yesterday and the banks must wait at least 30 days before closing the purchase .,closing,0.52,1,1
+247,164,wsj_0132,The charges were offset in part by a gain from the sale of the company 's construction division,offset,0.5,1,1
+247,164,wsj_0132,The charges were offset in part by a gain from the sale of the company 's construction division,sale,0.5,1,1
+247,166,NYT19980212.0019,NEW YORK _ A Brooklyn woman who was watching her clothes dry in a laundromat was killed Thursday evening when two would-be robbers emptied their pistols into the store the police said .,killed,0.5,1,1
+247,166,NYT19980212.0019,NEW YORK _ A Brooklyn woman who was watching her clothes dry in a laundromat was killed Thursday evening when two would-be robbers emptied their pistols into the store the police said .,watching,0.43,1,1
+247,167,WSJ910225-0066,U.S. Marines were said to have breached troublesome mine fields along the Iraqi lines but Pentagon officials said no amphibious assault on Kuwait 's beaches had begun,breached,0.66,1,1
+247,168,wsj_0159,D Acquisition said the extension is to allow this process to be completed,completed,0.53,1,1
+247,168,wsj_0159,D Acquisition said the extension is to allow this process to be completed,extension,0.53,1,1
+247,169,VOA19980303.1600.2745,The Internet has certainly helped uh hate mongers to organize and uh to feel that they are part of a larger community even if uh they are essentially uh you know angry people sitting in their bedrooms uh all alone .,organize,0.64,1,1
+247,170,wsj_0520,Nashua whose major business is selling copiers facsimile machines and related supplies said Reiss amp Co.,said,0.7,1,1
+247,171,wsj_1006,The non-food operations accounted for about 27 % of Provigo 's 7.38 billion Canadian dollars ( US $ 6.3 billion ) in sales in the latest fiscal year,operations,0.65,0,1
+247,172,VOA19980501.1800.0355,At a news conference with US Vice President Al Gore in Jerusalem Mr. Netanyahu suggested Israel might be willing to move a little on issues holding up peace but he said he expects an equal effort from the Palestinians .,move,0.42,1,1
+247,172,VOA19980501.1800.0355,At a news conference with US Vice President Al Gore in Jerusalem Mr. Netanyahu suggested Israel might be willing to move a little on issues holding up peace but he said he expects an equal effort from the Palestinians .,said,0.42,1,1
+247,172,VOA19980501.1800.0355,At a news conference with US Vice President Al Gore in Jerusalem Mr. Netanyahu suggested Israel might be willing to move a little on issues holding up peace but he said he expects an equal effort from the Palestinians .,suggested,0.42,1,1
+247,172,VOA19980501.1800.0355,At a news conference with US Vice President Al Gore in Jerusalem Mr. Netanyahu suggested Israel might be willing to move a little on issues holding up peace but he said he expects an equal effort from the Palestinians .,willing,0.35,1,1
+247,173,APW19980219.0476,In July last year in Phnom Penh Cambodia 's capital Second Prime Minister Hun Sen staged a successful coup d ' etat against First Prime Minister Prince Norodom Ranariddh .,coup,0.52,1,1
+247,173,APW19980219.0476,In July last year in Phnom Penh Cambodia 's capital Second Prime Minister Hun Sen staged a successful coup d ' etat against First Prime Minister Prince Norodom Ranariddh .,staged,0.45,1,1
+247,174,CNN19980227.2130.0067,And just last month an off duty policeman is killed when a bomb explodes at another abortion clinic .,killed,0.69,1,1
+247,174,CNN19980227.2130.0067,And just last month an off duty policeman is killed when a bomb explodes at another abortion clinic .,explodes,0.61,1,1
+245,176,AP900815-0044,The U.N. Security Council on Aug . 6 ordered a global embargo on trade with Iraq as punishment for seizing Kuwait,embargo,0.62,1,1
+245,176,AP900815-0044,The U.N. Security Council on Aug . 6 ordered a global embargo on trade with Iraq as punishment for seizing Kuwait,ordered,0.53,1,1
+245,177,wsj_0032,Montedison currently owns about 72 % of Erbamont 's common shares outstanding,owns,0.95,1,1
+245,178,VOA19980501.1800.0355,Mr. Gore called on Israel to continue taking risks for peace,called,0.65,1,1
+245,180,wsj_0557,The candy businesses had sales of about $ 154 million last year which was roughly 12 % of total revenue for RJR 's Planters LifeSavers unit according to a memorandum distributed by RJR 's owner Kohlberg Kravis Roberts amp Co. to bankers last December .,sales,0.76,1,1
+245,181,wsj_0586,Traders said the continued turbulence in other markets coupled with the drop in London following the Lawson resignation were responsible .,turbulence,0.58,1,1
+245,181,wsj_0586,Traders said the continued turbulence in other markets coupled with the drop in London following the Lawson resignation were responsible .,resignation,0.47,1,1
+245,182,APW19980306.1001,"All sites were inspected to the satisfaction of the inspection team and with full cooperation of Iraqi authorities """" Dacey said .",inspected,0.87,1,1
+245,183,Wsj_0811,The zero-coupon subordinated notes have no periodic interest payments,payments,0.75,1,1
+245,184,wsj_0991,Total Assets Protection Inc. rebounding from its earlier loss expects to report earnings from operations of about $ 200000 for the third quarter J.C. Matlock chairman said .,earnings,0.38,1,1
+245,184,wsj_0991,Total Assets Protection Inc. rebounding from its earlier loss expects to report earnings from operations of about $ 200000 for the third quarter J.C. Matlock chairman said .,loss,0.38,1,1
+245,184,wsj_0991,Total Assets Protection Inc. rebounding from its earlier loss expects to report earnings from operations of about $ 200000 for the third quarter J.C. Matlock chairman said .,rebounding,0.38,1,1
+245,184,wsj_0991,Total Assets Protection Inc. rebounding from its earlier loss expects to report earnings from operations of about $ 200000 for the third quarter J.C. Matlock chairman said .,report,0.38,1,1
+245,185,wsj_0706,Earlier this month Security Pacific which is among the 10 largest bank holding companies in the U.S. completed the acquisition of San Diego-based Southwest Bancorp .,completed,0.79,1,1
+245,185,wsj_0706,Earlier this month Security Pacific which is among the 10 largest bank holding companies in the U.S. completed the acquisition of San Diego-based Southwest Bancorp .,acquisition,0.57,1,1
+245,186,wsj_0583,"Our company has not been able to cope very effectively with """" changes in the marketplace said Ryosuke Ito Sansui 's president .",changes,0.81,1,1
+245,187,APW19980219.0476,But the group began to fall apart in mid-1996 after the defection of one of its top leaders Ieng Sary .,defection,0.51,1,1
+245,187,APW19980219.0476,But the group began to fall apart in mid-1996 after the defection of one of its top leaders Ieng Sary .,fall,0.51,1,1
+245,187,APW19980219.0476,But the group began to fall apart in mid-1996 after the defection of one of its top leaders Ieng Sary .,began,0.43,1,1
+245,188,wsj_0938,Mr. Drabinsky who would have had the right to vote those shares for two years said the purchase subsequently rejected by regulators was aimed at consolidating his control of the company .,purchase,0.64,1,1
+246,189,wsj_0791,Yesterday it closed at $ 4.375 a share up $ 1.125 in national over-the-counter trading .,closed,0.76,1,1
+246,190,PRI19980303.2000.2550,We do not further the purpose of human rights in the world by violating the human rights under our own constitution,violating,0.63,1,1
+246,192,Wsj_0816,In late New York trading the dollar was at 1.8400 marks and 142.10 yen compared with 1.8353 marks and 141.52 yen Wednesday,trading,0.89,0,1
+246,193,AP900815-0044,CBS News report citing unidentified Jordanian sources said that Saddam 's message called for an international conference to be convened to discuss an Iraqi withdrawal from Kuwait,withdrawal,0.42,1,1
+246,194,wsj_0568,He asked,asked,0.97,1,1
+246,195,PRI19980216.2000.0170,We 're going to fight it,fight,0.9,1,1
+246,196,NYT19980424.0421,Butinstead of providing the votes to strike it down they chose to uphold it on the flimsy ground that because the sex of the parent and not the child made the difference under the law the plaintiff did not have standing to bring the case .,uphold,0.46,1,1
+246,196,NYT19980424.0421,Butinstead of providing the votes to strike it down they chose to uphold it on the flimsy ground that because the sex of the parent and not the child made the difference under the law the plaintiff did not have standing to bring the case .,chose,0.35,1,1
+246,196,NYT19980424.0421,Butinstead of providing the votes to strike it down they chose to uphold it on the flimsy ground that because the sex of the parent and not the child made the difference under the law the plaintiff did not have standing to bring the case .,strike,0.35,1,1
+246,197,wsj_0171,The company said the one-time provision would substantially eliminate all future losses at the unit,eliminate,0.71,1,1
+246,197,wsj_0171,The company said the one-time provision would substantially eliminate all future losses at the unit,provision,0.47,1,1
+246,198,WSJ910225-0066,"Secretary of State James Baker said on ABC - TV 's """" This Week With David Brinkley """" that the series of United Nations resolutions condemning Iraq 's invasion of Kuwait """" imply that the restoration of peace and stability in the Gulf would be a heck of a lot easier if he and that leadership were not in power in Iraq . """"",invasion,0.53,0,1
+245,1,wsj_0173,The Avon Conn . company 's stock hit a high in 1983 after it unveiled its Adam home computer but the product was plagued with glitches and the company 's fortunes plunged .,[NONE],0,0,0
+245,5,wsj_0505,They said they expect the transaction to be completed by Dec . 15,[NONE],0,0,0
+245,7,wsj_1014,Some experts now predict Anheuser 's entry into the fray means near-term earnings trouble for all the industry players,[NONE],0,0,0
+245,10,wsj_0745,"I really do n't see the government doing something that Jaguar does n't want over the next 14 months """" said Kenneth Warren a Conservative member of Parliament and chairman of the Select Committee on Trade and Industry in Britain 's House of Commons .",[NONE],0,0,0
+245,11,Wsj_0151,Mr. Ackerman already is seeking to oust Mr. Edelman as chairman of Datapoint Corp. an Intelogic affiliate .,[NONE],0,0,0
+245,14,NYT19980212.0019,The other customers fled and the police said it did not appear that anyone else was injured .,[NONE],0,0,0
+245,15,wsj_0340,Earlier yesterday the Societe de Bourses Francaises was told that a unit of Framatome S.A. also bought Navigation Mixte shares this purchase covering more than 160000 shares .,[NONE],0,0,0
+245,17,APW19980213.1320,This will add nearly 700 seats a week on the route,[NONE],0,0,0
+245,18,wsj_0127,The British paper packaging and publishing concern said profit from continuing lines fell 10 % to # 118 million from # 130.6 million .,[NONE],0,0,0
+245,20,wsj_0695,ally officials were n't available to comment late yesterday,[NONE],0,0,0
+245,21,wsj_0570,Under the terms Milton Roy will pay an initial $ 4 million for the operations and additional payments during the next four years based on the earnings performance of the businesses .,[NONE],0,0,0
+245,22,wsj_1003,"However in spite of the difficult industrywide environment of high cost and low volume Bethlehem """" had pretty good earnings numbers """" said Michelle Galanter Applebaum an analyst with Salomon Brothers Inc.",[NONE],0,0,0
+245,24,wsj_0027,hey expect him to cut costs throughout the organization,[NONE],0,0,0
+245,25,wsj_0781,Sun Hewlett - Packard and others say Intel is n't wholly to blame for the snafu .,[NONE],0,0,0
+245,27,wsj_1031,Under certain circumstances the rights would entitle Philip Morris holders to buy shares of either the company or its acquirer for half price .,[NONE],0,0,0
+245,28,wsj_0324,The acquisition brings together the two largest competitors to Home Shopping Network Inc. which now reaches more viewers than any other company in the video shopping industry .,[NONE],0,0,0
+245,32,wsj_0610,As expected Kellogg reported lower third-quarter earnings .,[NONE],0,0,0
+245,34,wsj_0584,But under new terms of the agreement announced Friday LIN holders would receive a special cash dividend of $ 42 a share representing a payout of about $ 2.23 billion shortly before the proposed merger .,[NONE],0,0,0
+245,35,wsj_0172,The Midwest Financial subsidiary banks will continue to operate under their current names until early 1990 when each will adopt the First of America name .,[NONE],0,0,0
+245,36,wsj_1008,Lawrence Insurance underwrites mostly primary insurance a company spokesman said .,[NONE],0,0,0
+245,38,wsj_0161,In addition Hadson said it will write off about $ 3.5 million in costs related to international exploration leases where exploration efforts have been unsuccessful .,[NONE],0,0,0
+245,39,AP900816-0139,"British Foreign Office minister William Waldegrave called the order """" grave and sinister . """"",[NONE],0,0,0
+245,40,VOA19980331.1700.1533,But the number of patients waiting then begins to increase um and in fact um over the years many more patients who are about to die of liver tra - uh without a liver transplant would accumulate .,[NONE],0,0,0
+245,43,wsj_0585,Because of program trading it is more difficult to trade many OTC stocks without sharp price moves a condition known as illiquidity .,[NONE],0,0,0
+245,44,wsj_0124,In American Stock Exchange composite trading Citadel shares closed yesterday at $ 45.75 down 25 cents .,[NONE],0,0,0
+245,45,wsj_0981,MGM Grand said the latest stock offering wo n't cover the $ 600 million or more cost of building the proposed resort and theme park and added it will need to seek additional financing either through bank borrowings or debt and equity offerings at a later date .,[NONE],0,0,0
+245,48,CNN19980223.1130.0960,eakened oil prices have already made life easier for motorists at the gas pump,[NONE],0,0,0
+245,50,WSJ900813-0157,"The Bush administration immediately said it """" categorically """" rejects the proposals .",[NONE],0,0,0
+246,53,wsj_0292,In the 1989 period also interest expense and tax rates were lower than a year ago .,[NONE],0,0,0
+246,55,NYT19980206.0460,Long-term interest rates an important indicator of economic stability have fallen in the last few months .,[NONE],0,0,0
+246,56,wsj_1003,Of all the major steelmakers Bethlehem would seem to be the most vulnerable to a slowdown .,[NONE],0,0,0
+246,57,wsj_0950,In the nine months GM Hughes net fell 6.6 % to $ 486.6 million or $ 1.48 a share from $ 521 million or $ 1.58 a share .,[NONE],0,0,0
+246,58,wsj_0346,The company which currently has 13.5 million common shares outstanding said it has no specific plans for the shares .,[NONE],0,0,0
+246,61,WSJ910225-0066,There are likely to be additional American prisoners of war taken and there are signs that President Hussein is taking Kuwaiti hostages .,[NONE],0,0,0
+246,62,wsj_1006,Bertin Nadeau newly appointed chairman and interim chief executive of Provigo would n't say if Mr. Lortie was asked to leave .,[NONE],0,0,0
+246,63,wsj_0132,The 32 % state-owned DSM had eight million guilders of extraordinary charges in the latest quarter mainly to reflect one-time losses in connection with the disposal of some operations .,[NONE],0,0,0
+246,64,wsj_0610,But the Memphis Tenn . facility was n't to begin turning out product until 1993 so the decision may reveal a more pessimistic long-term outlook as well .,[NONE],0,0,0
+246,66,ABC19980108.1830.0711,They believe ah it will be always up going up and up ah forever,[NONE],0,0,0
+246,68,ea980120.1830.0071,But now we 're going to go back to New York where Diane Sawyer has the rest of the news .,[NONE],0,0,0
+246,70,wsj_0586,ealers said the multinational oil company was pressured by recent brokerage recommendations urging investors to switch into Shell Trading amp Transport,[NONE],0,0,0
+246,71,APW19980227.0489,The assassination touched off a murderous rampage by Hutu security forces and civilians who slaughtered mainly Tutsis but also Hutus who favored reconciliation with the minority .,[NONE],0,0,0
+246,72,wsj_0610,Led by its oat-based Cheerios line General Mills has gained an estimated 2 % share so far this year mostly at the expense of Kellogg .,[NONE],0,0,0
+246,75,wsj_0575,During that time Control Data had losses of more than $ 1 billion .,[NONE],0,0,0
+246,77,wsj_0768,Junk-fund holders have barely broken even this year as fat interest payments barely managed to offset declining prices .,[NONE],0,0,0
+246,78,wsj_1006,In a related move Pierre Lortie chairman and chief executive resigned .,[NONE],0,0,0
+246,81,wsj_0670,The company also said it continues to explore all options concerning the possible sale of National Aluminum 's 54.5 % stake in an aluminum smelter in Hawesville Ky .,[NONE],0,0,0
+246,82,APW19980322.0749,olice arrested six Protestants on suspicion of rioting,[NONE],0,0,0
+246,83,wsj_0768,Fidelity 's junk fund has fallen 2.08 % this year through Oct . 19 Lipper says ;,[NONE],0,0,0
+246,86,WSJ910225-0066,Perhaps more important it appears that allied troops have n't yet fully engaged Iraq 's vaunted Republican Guard which has been sitting just north of the Iraq - Kuwait border and is considered the most potent element in the Iraqi defense .,[NONE],0,0,0
+246,87,APW19980227.0476,Both U.S. and British officials filed objections to the court 's jurisdiction in 1995 claiming Security Council resolutions imposed on Lybia to force the suspects ' extradition overruled a 1971 Convention which gives Libya the right to try the men .,[NONE],0,0,0
+246,88,wsj_0927,As a result U.S. Trust 's earnings have been hurt .,[NONE],0,0,0
+246,90,wsj_0585,riday 's trading volume totaled 132.8 million shares,[NONE],0,0,0
+246,91,wsj_0586,hey said contributing to the downward drift was the fact that many professional traders had chosen to square positions ahead of the weekend,[NONE],0,0,0
+246,92,WSJ910225-0066,The American hope is that someone from within Iraq perhaps from the army 's professional ranks will step forward and push Saddam Hussein aside so that the country can begin recovering from the disaster .,[NONE],0,0,0
+246,93,AP900815-0044,Also today King Hussein of Jordan arrived in Washington seeking to mediate the Persian Gulf crisis .,[NONE],0,0,0
+246,94,wsj_0760,However the company 's petroleum services segment while profitable was hurt by high financing costs associated with the company 's buy-out of a 50 % stake in Eastman Christensen Co. from Texas Eastern Corp. last June .,[NONE],0,0,0
+246,95,wsj_0533,"The Canadian government previously said Merieux 's bid did n't offer enough """" net benefit """" to Canada to be approved and gave Merieux an until mid-November to submit additional information .",[NONE],0,0,0
+246,96,wsj_0768,Last week alone an eye-popping $ 1.6 billion flowed out of the junk funds or nearly 5 % of their total assets according to estimates by Dalbar Financial Services Inc. a Boston research firm .,[NONE],0,0,0
+246,97,APW19980219.0476,At the time Howes was captured the Khmer Rouge were a more or less united guerrilla force with more than 10000 men under arms .,[NONE],0,0,0
+247,101,PRI19980303.2000.2550,astor James Allmen of the fellowship church and school in Ashburn has led the anti-Saudi campaign,[NONE],0,0,0
+247,102,wsj_0781,The real culprits they said are computer makers such as IBM that have jumped the gun to unveil 486-based products .,[NONE],0,0,0
+247,103,CNN19980213.2130.0155,President Clinton meantime glossed over stern warnings from Moscow on Thursday that US air strikes against Iraq could do serious harm to relations with the Kremlin .,[NONE],0,0,0
+247,104,wsj_1031,The giant foods tobacco and brewing company said it will issue common-share purchase rights to shareholders of record Nov . 8 .,[NONE],0,0,0
+247,106,AP900816-0139,e 're there to stay for a fairly lengthy period,[NONE],0,0,0
+247,108,wsj_0376,"The sharper definition and the autonomy which each will thereby gain will benefit shareholders customers and employees . """"",[NONE],0,0,0
+247,109,wsj_0904,"Over the next couple of years we would not be surprised to see Europe and international { sales } represent 50 % of the company 's revenues """" he said .",[NONE],0,0,0
+247,110,Wsj_0610,Mr. Maxwell said he would n't be surprised if over the next two years or so General Mills ' share increased to 30 % or more .,[NONE],0,0,0
+247,111,wsj_0568,"Just clobbered """" said Ulric Weil an analyst at Weil amp Associates who had once been high on the company .",[NONE],0,0,0
+247,113,APW19980213.1310,Pro-republicans hope to have an Australian president by the opening of the 2000 Olympics and the 100th anniversary of Australian federation,[NONE],0,0,0
+247,114,APW19980306.1001,"We are going to maintain our forces in the region for the foreseeable future """" said spokesman Kenneth Bacon .",[NONE],0,0,0
+247,115,APW19980418.0210,Farkas expressed the hope he one day follow in the footsteps of fellow astronaut John Glenn who at 77 is about to go into space again .,[NONE],0,0,0
+247,116,wsj_0781,Yesterday Compaq plunged further closing at $ 100 a share off $ 8.625 a share on volume of 2633700 shares .,[NONE],0,0,0
+247,117,APW19980213.1310,The idea of a republic will fall to dust through the grace of almighty God,[NONE],0,0,0
+247,118,wsj_0745,And powerful political pressures may convince the Conservative government to keep its so-called golden share which limits any individual holding to 15 % until the restriction expires on Dec . 31 1990 .,[NONE],0,0,0
+247,120,wsj_0325,During the third quarter the company charged about $ 46 million against earnings in reducing goodwill added $ 20 million to its general loan loss reserves and established a $ 30 million reserve for its high-yield bond portfolio .,[NONE],0,0,0
+247,121,wsj_0778,According to department policy prosecutors must make a strong showing that lawyers ' fees came from assets tainted by illegal profits before any attempts at seizure are made .,[NONE],0,0,0
+247,122,WSJ900813-0157,Then yesterday he tried to entice Arab leaders with his proposal for a diplomatic solution linking his occupation of Kuwait with Israel 's occupation of the West Bank .,[NONE],0,0,0
+247,124,APW19980213.1310,It 's no secret that she 's indicated to me ... she is a 20th century democrat understands that the role of the crown in Australia rests in the hands of the Australian people as it has for almost a hundred years .,[NONE],0,0,0
+247,127,wsj_0348,The Fairfield N.J. company which is 92 % - owned by Ogden Corp. New York had net of $ 1.1 million or four cents a share a year ago .,[NONE],0,0,0
+247,130,wsj_0610,Initial cost estimates for the plant which was to have been built in phases ranged from $ 1 billion to $ 1.2 billion .,[NONE],0,0,0
+247,134,NYT19980206.0466,"White House on Thursday """" For the past few weeks we 've been subjected to false leaks designed to mislead both reporters and the American public .",[NONE],0,0,0
+247,135,AP900815-0044,ruckloads of goods rolled into Iraq from Jordan on Tuesday and Iraqi-bound cargo was unloaded from ships at the Red Sea port ofAqaba despite the U.N.-ordered sanctions,[NONE],0,0,0
+247,136,wsj_0586,It showed some early resilience after central bank support firmed sterling but the weight of Wall Street late in London trading and signs of further weakness in the British pound proved a hefty load to bear .,[NONE],0,0,0
+247,137,wsj_0786,In January American Medical brought in a new chief executive officer Richard A. Gilleland 45 who will remain as chairman president and chief executive .,[NONE],0,0,0
+247,139,wsj_0583,He took Polly Peck once a small fabric wholesaler and used it at as a base to build a conglomerate that has been doubling its profits annually since 1980 .,[NONE],0,0,0
+247,140,wsj_0263,A year earlier UniFirst earned $ 2.4 million or 24 cents a share adjusted for the split .,[NONE],0,0,0
+247,143,APW19980501.0480,With intranets in place it is only logical for organisations to respectively link the network to other companies ' for extended business purposes through extranets .,[NONE],0,0,0
+247,144,wsj_0555,Waxman Industries Inc. said holders of $ 6542000 face amount of its 6 1/4 % convertible subordinated debentures due March 15 2007 have elected to convert the debt into about 683000 common shares .,[NONE],0,0,0
+247,145,APW19980418.0210,However cited by District of Columbia traffic police in December for driving under the influence of alcohol Farkas was ordered home and retired .,[NONE],0,0,0
+247,148,CNN19980222.1130.0084,nnan wrapped up a three hour meeting with Iraqi president Saddam Hussein in Baghdad today,[NONE],0,0,0
+247,149,wsj_0781,n IBM spokeswoman said the company told customers Monday about the bugs and temporarily stopped shipping the product,[NONE],0,0,0
+247,153,APW19980306.1001,he procedures are due to go before the Security Council next week,[NONE],0,0,0
+247,157,PRI19980115.2000.0186,ow the ninth US circuit court of appeals has ruled that the original appeal was flawed since it brought up issues that had not been raised before,[NONE],0,0,0
+247,160,wsj_0026,Imports of the types of watches that now will be eligible for duty-free treatment totaled about $ 37.3 million in 1988 a relatively small share of the $ 1.5 billion in U.S. watch imports that year according to an aide to U.S. Trade Representative Carla Hills .,[NONE],0,0,0
+247,162,wsj_0184,The program available to Upjohn employees 55 years old or older could increase an individual 's retirement benefits 10 % to 20 % .,[NONE],0,0,0
+247,163,wsj_0751,The FDIC cleared the move yesterday and the banks must wait at least 30 days before closing the purchase .,[NONE],0,0,0
+247,164,wsj_0132,he charges were offset in part by a gain from the sale of the company 's construction division,[NONE],0,0,0
+247,165,VOA19980303.1600.2745,he approach of the year two thousand has many of these groups in a kind of millennial frenzy,[NONE],0,0,0
+247,166,NYT19980212.0019,NEW YORK _ A Brooklyn woman who was watching her clothes dry in a laundromat was killed Thursday evening when two would-be robbers emptied their pistols into the store the police said .,[NONE],0,0,0
+247,169,VOA19980303.1600.2745,The Internet has certainly helped uh hate mongers to organize and uh to feel that they are part of a larger community even if uh they are essentially uh you know angry people sitting in their bedrooms uh all alone .,[NONE],0,0,0
+247,171,wsj_1006,he non-food operations accounted for about 27 % of Provigo 's 7.38 billion Canadian dollars ( US $ 6.3 billion ) in sales in the latest fiscal year,[NONE],0,0,0
+247,173,APW19980219.0476,In July last year in Phnom Penh Cambodia 's capital Second Prime Minister Hun Sen staged a successful coup d ' etat against First Prime Minister Prince Norodom Ranariddh .,[NONE],0,0,0
+247,174,CNN19980227.2130.0067,And just last month an off duty policeman is killed when a bomb explodes at another abortion clinic .,[NONE],0,0,0
+245,175,wsj_1073,The unit makes intravenous pumps used by hospitals and had more than $ 110 million in sales last year according to Advanced Medical .,[NONE],0,0,0
+245,177,wsj_0032,ontedison currently owns about 72 % of Erbamont 's common shares outstanding,[NONE],0,0,0
+245,179,wsj_0542,"In the tender offer supplement Dow Jones discloses the different growth forecasts but says it views the 20 % growth rate """" as a hoped-for goal """" of Telerate 's management """" and not as a realistic basis on which to project the company 's likely future performance . """"",[NONE],0,0,0
+245,180,wsj_0557,The candy businesses had sales of about $ 154 million last year which was roughly 12 % of total revenue for RJR 's Planters LifeSavers unit according to a memorandum distributed by RJR 's owner Kohlberg Kravis Roberts amp Co. to bankers last December .,[NONE],0,0,0
+245,182,APW19980306.1001,"All sites were inspected to the satisfaction of the inspection team and with full cooperation of Iraqi authorities """" Dacey said .",[NONE],0,0,0
+245,183,Wsj_0811,he zero-coupon subordinated notes have no periodic interest payments,[NONE],0,0,0
+245,184,wsj_0991,Total Assets Protection Inc. rebounding from its earlier loss expects to report earnings from operations of about $ 200000 for the third quarter J.C. Matlock chairman said .,[NONE],0,0,0
+245,187,APW19980219.0476,But the group began to fall apart in mid-1996 after the defection of one of its top leaders Ieng Sary .,[NONE],0,0,0
+245,188,wsj_0938,Mr. Drabinsky who would have had the right to vote those shares for two years said the purchase subsequently rejected by regulators was aimed at consolidating his control of the company .,[NONE],0,0,0
+246,189,wsj_0791,Yesterday it closed at $ 4.375 a share up $ 1.125 in national over-the-counter trading .,[NONE],0,0,0
+246,190,PRI19980303.2000.2550,e do not further the purpose of human rights in the world by violating the human rights under our own constitution,[NONE],0,0,0
+246,191,wsj_0557,"RJR Nabisco and Planters LifeSavers will concentrate more on our own core businesses """" Mr. Gerstner said Friday .",[NONE],0,0,0
+246,197,wsj_0171,he company said the one-time provision would substantially eliminate all future losses at the unit,[NONE],0,0,0
+246,199,wsj_0135,Elco Industries Inc. said it expects net income in the year ending June 30 1990 to fall below a recent analyst 's estimate of $ 1.65 a share .,[NONE],0,0,0
+246,200,APW19980501.0480,Other than usage in business Internet technology is also beginning to infiltrate the lifestyle domain .,[NONE],0,0,0
