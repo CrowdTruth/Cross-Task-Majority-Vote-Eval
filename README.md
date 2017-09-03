@@ -2,10 +2,10 @@
 
 Corpus of crowdsourced annotations together with trusted judgments for 4 crowdsourcing tasks:
 
-1. *medical relation extraction*
-2. *Twitter event extraction*
-3. *news event identification*
-4. *sound interpretation*
+1. *medical relation extraction* (files ```medical_*```)
+2. *Twitter event extraction* (files ```tweets_*```)
+3. *news event identification* (files ```events_*```)
+4. *sound interpretation* (files ```sounds_*```)
 
 The dataset was used to evaluate the [CrowdTruth](http://crowdtruth.org/) crowdsourcing aggregation metrics. Details are available in the paper:
 
